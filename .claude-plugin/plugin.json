@@ -1,0 +1,10 @@
+{
+  "name": "law-firm-analytics",
+  "version": "1.0.0",
+  "description": "Two free Claude skills for law firms: analyst-grade charts and a Monday 8am briefing written from your numbers.",
+  "author": {"name": "Swyft", "url": "https://swyft.co"},
+  "homepage": "https://github.com/swyftinc/law-firm-analytics",
+  "repository": "https://github.com/swyftinc/law-firm-analytics",
+  "license": "MIT",
+  "keywords": ["law firm", "analytics", "charts", "briefing", "clio", "legal"]
+}

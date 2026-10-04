@@ -1,0 +1,103 @@
+{
+ "title": "Google LSA cost per signed matter nearly doubled in September",
+ "kind": "memo",
+ "meta": {
+  "eyebrow": "Monday briefing, Super Duper Law, October 5, 2026"
+ },
+ "blocks": [
+  {
+   "type": "lede",
+   "text": "Google LSA now costs **$861 per signed matter**, up from $450 in August, on the same lead volume: 68 leads in the last 30 days against 67 before. The likely cause is when those leads arrive and how long they wait."
+  },
+  {
+   "type": "h2",
+   "text": "LSA leads now arrive after hours, when first contact is slow"
+  },
+  {
+   "type": "p",
+   "text": "Cost per signed matter went from $450 to $861, September against August. Only 12 matters signed in September against 20 in August, so treat the size as approximate. Over the last month, 20.9% of LSA leads have signed, against 31.9% the month before. That's a likely drop, not a certain one. If it holds, it is worth about $159K in estimated fees on those leads, using the firm's own estimated value field."
+  },
+  {
+   "type": "p",
+   "text": "The likely reason is timing. After-hours and weekend leads were 32.9% of LSA leads and are now 83.3%. Across every source, leads reached within an hour signed at 51.0%, and leads that waited more than a day or were never reached signed at 5.7%. More leads arriving after hours, and waiting longer for a first contact, could account for much of this drop. Lead quality could also have slipped, and these numbers can't rule that out."
+  },
+  {
+   "type": "chart",
+   "kind": "bar_h",
+   "title": "Leads reached within an hour sign at 51.0%; after a day, 5.7%",
+   "unit": "pct",
+   "higher_is_better": true,
+   "order": "given",
+   "data": [
+    {
+     "label": "Within 1 hour",
+     "value": 0.5096525096525096,
+     "display": "51.0%",
+     "sample": "259 leads",
+     "highlight": true,
+     "thin": false
+    },
+    {
+     "label": "1 to 4 hours",
+     "value": 0.2982456140350877,
+     "display": "29.8%",
+     "sample": "57 leads",
+     "highlight": false,
+     "thin": false
+    },
+    {
+     "label": "4 to 24 hours",
+     "value": 0.1165644171779141,
+     "display": "11.7%",
+     "sample": "163 leads",
+     "highlight": false,
+     "thin": false
+    },
+    {
+     "label": "Over 24 hours or never",
+     "value": 0.05660377358490566,
+     "display": "5.7%",
+     "sample": "53 leads",
+     "highlight": false,
+     "thin": false
+    }
+   ],
+   "subtitle": "Signed rate by how long the first contact took. Leads from Jun 24 to Sep 21.",
+   "compact": true
+  },
+  {
+   "type": "h2",
+   "text": "Family law realization fell, mostly on one attorney's matters"
+  },
+  {
+   "type": "p",
+   "text": "Family law realization is 76.8%, against 87.8% the 90 days before, on 314 time entries. That is about $21K of recorded work that did not reach a bill. About 81% of the change sits on one attorney's matters, 87.4% down to 53.2%. It's worth asking what changed on those matters: a rate, a dispute, a new matter type."
+  },
+  {
+   "type": "h2",
+   "text": "Receivables over 90 days are up, and one matter holds most of it"
+  },
+  {
+   "type": "p",
+   "text": "Receivables more than 90 days past due rose from $122,048 to $151,178 between the two aging reports, up 24%. One matter holds 78% of that total, so this is a collections conversation about one account, not a slide across the firm."
+  },
+  {
+   "type": "callout",
+   "label": "Look at this first",
+   "text": "Pull September's LSA leads that arrived after 6pm or on a weekend and check how long each one waited for a first contact."
+  },
+  {
+   "type": "note",
+   "label": "Too thin to call",
+   "text": "A new wealth advisor referral source has four leads that reached a decision, and all four signed. That's too few to call it your best source."
+  },
+  {
+   "type": "p",
+   "text": "New leads are up 6% (181 against 170). That's inside normal variation."
+  },
+  {
+   "type": "footnote",
+   "text": "As of October 4, 2026. Leads and speed to lead cover the last 30 days. Realization covers the 90 days ending 35 days ago, so the work has had time to be invoiced. Receivables compare the two aging reports. Dollars at stake use the firm's estimated value field. Every number is computed from the firm's exports."
+  }
+ ]
+}

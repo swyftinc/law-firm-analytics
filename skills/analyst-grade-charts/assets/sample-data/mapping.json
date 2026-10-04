@@ -1,0 +1,109 @@
+{
+  "firm": "Super Duper Law",
+  "as_of": "2026-10-04",
+  "files": [
+    {
+      "path": "clio-grow-matter-revenue-report.csv",
+      "entity": "leads",
+      "columns": {
+        "lead_key": "Email",
+        "created_date": "Created at",
+        "source": "Source",
+        "outcome": "Matter status - top level",
+        "outcome_date": "Status date",
+        "practice_area": "Matter type",
+        "est_value": "Estimated value"
+      },
+      "value_maps": {
+        "outcome": {"Hired": "signed", "Did Not Hire": "lost", "Intake": "open"},
+        "practice_area": {
+          "Divorce": "Family law", "Child custody": "Family law", "Spousal support": "Family law",
+          "Contract dispute": "Business litigation", "Partnership dispute": "Business litigation",
+          "Non-compete": "Business litigation",
+          "Will and trust": "Estate planning", "Probate": "Estate planning", "Power of attorney": "Estate planning",
+          "Car accident": "Personal injury", "Slip and fall": "Personal injury", "Dog bite": "Personal injury"
+        }
+      }
+    },
+    {
+      "path": "intake-call-log.csv",
+      "entity": "contacts",
+      "columns": {"lead_key": "Contact email", "received_at": "Received at", "first_contact_at": "First contact at"}
+    },
+    {
+      "path": "marketing-spend.xlsx",
+      "sheet": "Spend",
+      "entity": "spend",
+      "columns": {"period": "Month", "source": "Source", "amount": "Spend"}
+    },
+    {
+      "path": "clio-realization-report.csv",
+      "entity": "time",
+      "columns": {
+        "date": "Time entry date", "attorney": "User", "practice_area": "Practice Area",
+        "billing_method": "Matter Billing Method", "matter_id": "Matter Number",
+        "billable_amount": "Original Billable Total", "billed_amount": "Billed Time Amount",
+        "collected_amount": "Billed Time Collected", "outstanding_amount": "Billed Time Outstanding",
+        "hours": "Quantity"
+      }
+    },
+    {
+      "path": "clio-ar-aging-2026-09-06.csv",
+      "entity": "ar",
+      "columns": {
+        "matter_id": "Matter", "attorney": "Responsible attorney", "invoice_id": "Bill id", "b_current": "Current",
+        "b_1_30": "1-30 days", "b_31_60": "31-60 days", "b_61_90": "61-90 days", "b_91_plus": "91+ days",
+        "total": "Total"
+      },
+      "file_level": {"snapshot_date": "2026-09-06"}
+    },
+    {
+      "path": "clio-ar-aging-2026-10-04.csv",
+      "entity": "ar",
+      "columns": {
+        "matter_id": "Matter", "attorney": "Responsible attorney", "invoice_id": "Bill id", "b_current": "Current",
+        "b_1_30": "1-30 days", "b_31_60": "31-60 days", "b_61_90": "61-90 days", "b_91_plus": "91+ days",
+        "total": "Total"
+      },
+      "file_level": {"snapshot_date": "2026-10-04"}
+    },
+    {
+      "path": "clio-matters-report.csv",
+      "entity": "matters",
+      "columns": {
+        "matter_id": "Matter", "client": "Client", "practice_area": "Practice area", "status": "Status",
+        "attorney": "Responsible attorney", "ar_balance": "Accounts receivable"
+      },
+      "value_maps": {"status": {"Open": "open", "Pending": "open", "Closed": "closed"}}
+    },
+    {
+      "path": "matter-list-export.csv",
+      "entity": "matters",
+      "columns": {
+        "matter_id": "Matter", "practice_area": "Practice", "status": "Stage", "opened_date": "Opened",
+        "closed_date": "Closed", "attorney": "Lawyer in charge", "billing_method": "Billing"
+      },
+      "value_maps": {"status": {"Open": "open", "Pending": "open", "Closed": "closed"}}
+    },
+    {
+      "path": "clio-revenue-report-last-90-days.csv",
+      "entity": "revenue",
+      "columns": {
+        "matter_id": "Matter", "practice_area": "Practice Area", "attorney": "Responsible Attorney",
+        "billed": ["Billed time", "Billed expense"],
+        "collected": ["Collected time", "Collected expense", "Collected uncategorized"]
+      },
+      "file_level": {"period_start": "2026-07-07", "period_end": "2026-10-04"}
+    },
+    {
+      "path": "clio-revenue-report-prior-90-days.csv",
+      "entity": "revenue",
+      "columns": {
+        "matter_id": "Matter", "practice_area": "Practice Area", "attorney": "Responsible Attorney",
+        "billed": ["Billed time", "Billed expense"],
+        "collected": ["Collected time", "Collected expense", "Collected uncategorized"]
+      },
+      "file_level": {"period_start": "2026-04-08", "period_end": "2026-07-06"}
+    }
+  ]
+}

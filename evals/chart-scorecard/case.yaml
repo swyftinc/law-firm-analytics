@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: chart-scorecard
+tags: [chart]
+context:
+  scaffold_script: fixture.sh

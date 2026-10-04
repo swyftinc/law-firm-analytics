@@ -1,0 +1,380 @@
+{
+ "title": "Super Duper Law scorecard",
+ "subtitle": "As of 2026-10-04",
+ "kind": "charts",
+ "meta": {
+  "eyebrow": "Scorecard",
+  "source": "Source: the firm's exports, computed on the sample data."
+ },
+ "blocks": [
+  {
+   "type": "kpi_row",
+   "items": [
+    {
+     "word": "normal range",
+     "metric": "cost_per_signed",
+     "label": "Cost per signed matter",
+     "value": "$804",
+     "direction": "lower_better",
+     "status": "gray",
+     "delta": "23%",
+     "delta_dir": "up",
+     "vs": "vs $652 before",
+     "n": 26,
+     "sample": "Sep 1 to Sep 30"
+    },
+    {
+     "word": "normal range",
+     "metric": "signed_rate",
+     "label": "Signed rate",
+     "value": "27.0%",
+     "direction": "higher_better",
+     "status": "gray",
+     "delta": "6.2 pts",
+     "delta_dir": "down",
+     "vs": "vs 33.1% before",
+     "n": 178,
+     "sample": "Aug 23 to Sep 21"
+    },
+    {
+     "metric": "speed_to_lead",
+     "label": "Speed to lead (median)",
+     "value": "3.7 hours",
+     "direction": "lower_better",
+     "status": "red",
+     "delta": "547%",
+     "delta_dir": "up",
+     "vs": "vs 34 min before",
+     "n": 176,
+     "sample": "Sep 2 to Oct 1"
+    }
+   ]
+  },
+  {
+   "type": "kpi_row",
+   "items": [
+    {
+     "metric": "realization",
+     "label": "Realization rate",
+     "value": "84.3%",
+     "direction": "higher_better",
+     "status": "amber",
+     "delta": "3.0 pts",
+     "delta_dir": "down",
+     "vs": "vs 87.3% before",
+     "n": 752,
+     "sample": "Jun 2 to Aug 30"
+    },
+    {
+     "metric": "ar_over_90",
+     "label": "Receivables over 90 days",
+     "value": "$151,178",
+     "direction": "lower_better",
+     "status": "red",
+     "delta": "24%",
+     "delta_dir": "up",
+     "vs": "vs $122,048 before",
+     "n": 36,
+     "sample": "As of Oct 4"
+    },
+    {
+     "metric": "collected_revenue",
+     "label": "Collected revenue",
+     "value": "$1,459,126",
+     "direction": "higher_better",
+     "status": "green",
+     "delta": "31%",
+     "delta_dir": "up",
+     "vs": "vs $1,112,036 before",
+     "n": 321,
+     "sample": "Jul 7 to Oct 4"
+    }
+   ]
+  },
+  {
+   "type": "chart",
+   "kind": "bar_h",
+   "title": "Google LSA now costs $861 per signed matter, up from $450",
+   "unit": "usd",
+   "lower_is_better": true,
+   "subtitle": "Marketing spend divided by matters signed, Sep 1 to Sep 30. Sources with under 10 signed matters are flagged.",
+   "data": [
+    {
+     "label": "Avvo",
+     "value": 575.0,
+     "display": "$575",
+     "sample": "2 signed",
+     "thin": true,
+     "highlight": false
+    },
+    {
+     "label": "Facebook",
+     "value": 2870.0,
+     "display": "$2,870",
+     "sample": "1 signed",
+     "thin": true,
+     "highlight": false
+    },
+    {
+     "label": "Google Ads",
+     "value": 595.4545454545455,
+     "display": "$595",
+     "sample": "11 signed",
+     "thin": true,
+     "highlight": false
+    },
+    {
+     "label": "Google LSA",
+     "value": 860.8333333333334,
+     "display": "$861",
+     "sample": "12 signed",
+     "thin": false,
+     "highlight": true
+    }
+   ],
+   "footnote": "Spend from the marketing spend sheet; signed matters from the lead export, by date signed."
+  },
+  {
+   "type": "chart",
+   "kind": "line",
+   "title": "Cost per signed matter, Google LSA against all paid sources",
+   "unit": "usd",
+   "lower_is_better": true,
+   "granularity": "month",
+   "series": [
+    {
+     "name": "Google LSA",
+     "highlight": true,
+     "points": [
+      {
+       "x": "2025-10-01",
+       "y": 655.0,
+       "n": 14
+      },
+      {
+       "x": "2025-11-01",
+       "y": 451.05263157894734,
+       "n": 19
+      },
+      {
+       "x": "2025-12-01",
+       "y": 527.6470588235294,
+       "n": 17
+      },
+      {
+       "x": "2026-01-01",
+       "y": 397.39130434782606,
+       "n": 23
+      },
+      {
+       "x": "2026-02-01",
+       "y": 496.1111111111111,
+       "n": 18
+      },
+      {
+       "x": "2026-03-01",
+       "y": 316.55172413793105,
+       "n": 29
+      },
+      {
+       "x": "2026-04-01",
+       "y": 324.13793103448273,
+       "n": 29
+      },
+      {
+       "x": "2026-05-01",
+       "y": 514.4444444444445,
+       "n": 18
+      },
+      {
+       "x": "2026-06-01",
+       "y": 355.2,
+       "n": 25
+      },
+      {
+       "x": "2026-07-01",
+       "y": 351.6,
+       "n": 25
+      },
+      {
+       "x": "2026-08-01",
+       "y": 450.5,
+       "n": 20
+      },
+      {
+       "x": "2026-09-01",
+       "y": 860.8333333333334,
+       "n": 12
+      }
+     ]
+    },
+    {
+     "name": "All paid sources",
+     "points": [
+      {
+       "x": "2025-10-01",
+       "y": 898.1818181818181,
+       "n": 22
+      },
+      {
+       "x": "2025-11-01",
+       "y": 654.8275862068965,
+       "n": 29
+      },
+      {
+       "x": "2025-12-01",
+       "y": 624.1935483870968,
+       "n": 31
+      },
+      {
+       "x": "2026-01-01",
+       "y": 538.6486486486486,
+       "n": 37
+      },
+      {
+       "x": "2026-02-01",
+       "y": 961.5,
+       "n": 20
+      },
+      {
+       "x": "2026-03-01",
+       "y": 423.4782608695652,
+       "n": 46
+      },
+      {
+       "x": "2026-04-01",
+       "y": 465.5813953488372,
+       "n": 43
+      },
+      {
+       "x": "2026-05-01",
+       "y": 631.2903225806451,
+       "n": 31
+      },
+      {
+       "x": "2026-06-01",
+       "y": 570.2941176470588,
+       "n": 34
+      },
+      {
+       "x": "2026-07-01",
+       "y": 535.0,
+       "n": 36
+      },
+      {
+       "x": "2026-08-01",
+       "y": 651.6666666666666,
+       "n": 30
+      },
+      {
+       "x": "2026-09-01",
+       "y": 803.8461538461538,
+       "n": 26
+      }
+     ]
+    }
+   ],
+   "subtitle": "By month. Months with few signed matters swing a lot, so read the direction before the exact value."
+  },
+  {
+   "type": "chart",
+   "kind": "dumbbell",
+   "unit": "pct",
+   "higher_is_better": true,
+   "title": "Where family law realization moved, by attorney",
+   "subtitle": "Billed divided by worked, before and now. A question to ask, not a verdict.",
+   "before_label": "Before",
+   "after_label": "Now",
+   "data": [
+    {
+     "label": "Elena Brightwater",
+     "before": 0.8819734345351044,
+     "after": 0.8345182895414734,
+     "highlight": false
+    },
+    {
+     "label": "Tomas Ferreira",
+     "before": 0.8733887733887734,
+     "after": 0.8780418788907753,
+     "highlight": false
+    },
+    {
+     "label": "Wren Kowalczyk",
+     "before": 0.874496644295302,
+     "after": 0.5317798989331836,
+     "highlight": true
+    }
+   ]
+  },
+  {
+   "type": "chart",
+   "kind": "stacked_bar",
+   "title": "Receivables over 90 days went from $122,048 to $151,178",
+   "unit": "usd",
+   "lower_is_better": true,
+   "rows": [
+    {
+     "label": "Sep 6",
+     "parts": [
+      {
+       "name": "Current",
+       "value": 113278.5,
+       "highlight": false
+      },
+      {
+       "name": "1-30 days",
+       "value": 39518.0,
+       "highlight": false
+      },
+      {
+       "name": "31-60 days",
+       "value": 41975.5,
+       "highlight": false
+      },
+      {
+       "name": "61-90 days",
+       "value": 30155.25,
+       "highlight": false
+      },
+      {
+       "name": "91+ days",
+       "value": 122047.5,
+       "highlight": true
+      }
+     ]
+    },
+    {
+     "label": "Oct 4",
+     "parts": [
+      {
+       "name": "Current",
+       "value": 93668.0,
+       "highlight": false
+      },
+      {
+       "name": "1-30 days",
+       "value": 37852.25,
+       "highlight": false
+      },
+      {
+       "name": "31-60 days",
+       "value": 33962.0,
+       "highlight": false
+      },
+      {
+       "name": "61-90 days",
+       "value": 32159.0,
+       "highlight": false
+      },
+      {
+       "name": "91+ days",
+       "value": 151177.75,
+       "highlight": true
+      }
+     ]
+    }
+   ],
+   "subtitle": "Unpaid bills by how long they are past due."
+  }
+ ]
+}

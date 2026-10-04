@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: chart-raw-clio-export
+tags: [chart, robustness]
+context:
+  scaffold_script: fixture.sh

@@ -1,0 +1,372 @@
+Matter,Location,Unbilled time,Unbilled hours,Unbilled expense,Billed time,Billed hours,Billed expense,Billed tax 1,Billed tax 2,Discounted time,Discounted expense,Credit notes,Collected time,Collected expense,Collected tax 1,Collected tax 2,Collected uncategorized,Client total,Client,Practice Area,Matter Description,Responsible Attorney,Billed Interest,Collected Interest
+00151-Wetherby,Downtown,0.00,0.0,0.00,247.50,0.9,0.00,0.00,0.00,0.00,0.00,0.00,907.50,0.00,0.00,0.00,0.00,907.50,Vik Dunleavy,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00187-Zeller,Downtown,1500.00,3.0,0.00,4115.00,8.2,0.00,0.00,0.00,0.00,0.00,0.00,4115.00,0.00,0.00,0.00,0.00,4115.00,Zane Aldridge,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00202-Castellane,Downtown,1520.00,3.2,0.00,950.00,2.0,0.00,0.00,0.00,0.00,0.00,0.00,1938.00,0.00,0.00,0.00,0.00,1938.00,Wynn Brackenridge,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+00203-Kettering,Downtown,0.00,0.0,0.00,2669.50,5.6,0.00,0.00,0.00,0.00,0.00,0.00,2194.50,0.00,0.00,0.00,0.00,2194.50,Yusuf Zimmerman,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00212-Aldridge,Downtown,0.00,0.0,0.00,950.00,2.0,0.00,0.00,0.00,0.00,0.00,0.00,1976.00,0.00,0.00,0.00,0.00,1976.00,Vik Quillfeather,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00216-Abernathy,Downtown,1995.00,4.2,0.00,1187.50,2.5,0.00,0.00,0.00,0.00,0.00,0.00,3676.50,0.00,0.00,0.00,0.00,3676.50,Ines Lindgren,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00220-Fitzwilliam,Downtown,997.50,2.1,0.00,3562.50,7.5,0.00,0.00,0.00,0.00,0.00,0.00,2802.50,0.00,0.00,0.00,0.00,2802.50,Gus Tillman,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00231-Wetherby,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1576.25,0.00,0.00,0.00,0.00,1576.25,Theo Fairbairn,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00232-Cavendish,Downtown,812.50,2.5,0.00,7338.50,22.6,0.00,0.00,0.00,0.00,0.00,0.00,7972.25,0.00,0.00,0.00,0.00,7972.25,Hal Galloway,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00243-Cranmer,Downtown,3087.50,9.5,0.00,3061.50,9.4,0.00,0.00,0.00,0.00,0.00,0.00,1475.50,0.00,0.00,0.00,0.00,1475.50,Beatrix Underhill,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00244-Ashdown,Downtown,0.00,0.0,0.00,3380.00,10.4,0.00,0.00,0.00,0.00,0.00,0.00,2811.25,0.00,0.00,0.00,0.00,2811.25,Isla Wetherby,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00252-Valdez,Downtown,0.00,0.0,0.00,275.00,1.0,0.00,0.00,0.00,0.00,0.00,0.00,275.00,0.00,0.00,0.00,0.00,275.00,Iris Zeller,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00254-Aldridge,Downtown,0.00,0.0,0.00,1732.50,6.3,0.00,0.00,0.00,0.00,0.00,0.00,247.50,0.00,0.00,0.00,0.00,247.50,Eamon Quillfeather,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00267-Delacourt,Downtown,0.00,0.0,0.00,2417.25,8.8,0.00,0.00,0.00,0.00,0.00,0.00,2417.25,0.00,0.00,0.00,0.00,2417.25,Milo Radcliffe,Business litigation,Non-compete,Caleb Moreau,0.00,0.00
+00283-Yarborough,Downtown,0.00,0.0,0.00,19111.78,0.0,0.00,0.00,0.00,0.00,0.00,0.00,19111.78,0.00,0.00,0.00,0.00,19111.78,Iris Zimmerman,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00287-Ostrander,Downtown,0.00,0.0,0.00,7871.95,0.0,0.00,0.00,0.00,0.00,0.00,0.00,7871.95,0.00,0.00,0.00,0.00,7871.95,Gus Dunleavy,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00312-Nightingale,Downtown,0.00,0.0,0.00,24508.29,0.0,0.00,0.00,0.00,0.00,0.00,0.00,24508.29,0.00,0.00,0.00,0.00,24508.29,Zane Ingram,Personal injury,Slip and fall,Noor Castellanos,0.00,0.00
+00315-Kingsley,Downtown,0.00,0.0,0.00,8794.04,0.0,0.00,0.00,0.00,0.00,0.00,0.00,8794.04,0.00,0.00,0.00,0.00,8794.04,Anders Wetherby,Personal injury,Slip and fall,Luca Bergstrom,0.00,0.00
+00317-Xiong,Downtown,0.00,0.0,0.00,58326.70,0.0,0.00,0.00,0.00,0.00,0.00,0.00,58326.70,0.00,0.00,0.00,0.00,58326.70,Lars Northcott,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00322-Dunmore,Downtown,0.00,0.0,0.00,17564.80,0.0,0.00,0.00,0.00,0.00,0.00,0.00,17564.80,0.00,0.00,0.00,0.00,17564.80,Kai Kingsley,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00343-Cavendish,Downtown,0.00,0.0,0.00,11900.06,0.0,0.00,0.00,0.00,0.00,0.00,0.00,11900.06,0.00,0.00,0.00,0.00,11900.06,Callum Cavendish,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00359-Fenwick,Downtown,0.00,0.0,0.00,200.00,0.4,0.00,0.00,0.00,0.00,0.00,0.00,1740.00,0.00,0.00,0.00,0.00,1740.00,Ines Fenwick,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00360-Alder,Downtown,632.50,2.3,0.00,1765.50,6.4,0.00,0.00,0.00,0.00,0.00,0.00,2860.00,0.00,0.00,0.00,0.00,2860.00,Alder Street Bakery,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+00371-Penhallow,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,605.00,0.00,0.00,0.00,0.00,605.00,Yara Penhallow,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+00376-Whitlock,Downtown,0.00,0.0,0.00,2612.85,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2612.85,0.00,0.00,0.00,0.00,2612.85,Zane Whitlock,Personal injury,Car accident,Noor Castellanos,0.00,0.00
+00382-Pemberley,Downtown,0.00,0.0,0.00,31655.98,0.0,0.00,0.00,0.00,0.00,0.00,0.00,31655.98,0.00,0.00,0.00,0.00,31655.98,Hana Pemberley,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00384-Delacroix,Downtown,0.00,0.0,0.00,942.50,2.9,0.00,0.00,0.00,0.00,0.00,0.00,942.50,0.00,0.00,0.00,0.00,942.50,Delacroix Supply,Business litigation,Partnership dispute,Aisha Lindqvist,0.00,0.00
+00403-Whitlock,Downtown,0.00,0.0,0.00,10159.71,0.0,0.00,0.00,0.00,0.00,0.00,0.00,10159.71,0.00,0.00,0.00,0.00,10159.71,Cleo Whitlock,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00416-Fenwick,Downtown,0.00,0.0,0.00,9710.48,0.0,0.00,0.00,0.00,0.00,0.00,0.00,9710.48,0.00,0.00,0.00,0.00,9710.48,Isla Fenwick,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00432-Lindgren,Downtown,0.00,0.0,0.00,7402.51,0.0,0.00,0.00,0.00,0.00,0.00,0.00,7402.51,0.00,0.00,0.00,0.00,7402.51,Quinn Lindgren,Personal injury,Slip and fall,Noor Castellanos,0.00,0.00
+00433-Quillfeather,Downtown,0.00,0.0,0.00,16063.38,0.0,0.00,0.00,0.00,0.00,0.00,0.00,16063.38,0.00,0.00,0.00,0.00,16063.38,Jonas Quillfeather,Personal injury,Car accident,Noor Castellanos,0.00,0.00
+00437-Stanhope,Downtown,0.00,0.0,0.00,2125.75,7.7,0.00,0.00,0.00,0.00,0.00,0.00,2125.75,0.00,0.00,0.00,0.00,2125.75,Odette Stanhope,Business litigation,Non-compete,Caleb Moreau,0.00,0.00
+00438-Marlow,Downtown,0.00,0.0,0.00,2350.00,4.7,0.00,0.00,0.00,0.00,0.00,0.00,1050.00,0.00,0.00,0.00,0.00,1050.00,Marlow Building Group,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00450-Zimmerman,Downtown,0.00,0.0,0.00,32832.59,0.0,0.00,0.00,0.00,0.00,0.00,0.00,32832.59,0.00,0.00,0.00,0.00,32832.59,Leona Zimmerman,Personal injury,Car accident,Noor Castellanos,0.00,0.00
+00459-Rothwell,Downtown,0.00,0.0,0.00,25268.74,0.0,0.00,0.00,0.00,0.00,0.00,0.00,25268.74,0.00,0.00,0.00,0.00,25268.74,Wes Rothwell,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00462-Zimmerman,Downtown,0.00,0.0,0.00,665.00,1.4,0.00,0.00,0.00,0.00,0.00,0.00,665.00,0.00,0.00,0.00,0.00,665.00,Amara Zimmerman,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00470-Abernathy,Downtown,0.00,0.0,0.00,860.00,1.7,0.00,0.00,0.00,0.00,0.00,0.00,1340.00,0.00,0.00,0.00,0.00,1340.00,Elio Abernathy,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00476-Montrose,Downtown,247.50,0.9,0.00,1177.00,4.3,0.00,0.00,0.00,0.00,0.00,0.00,792.00,0.00,0.00,0.00,0.00,792.00,Vik Montrose,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00477-Delacroix,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2230.00,0.00,0.00,0.00,0.00,2230.00,Delacroix Supply,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00483-Tidewater,Downtown,500.00,1.0,0.00,3905.00,7.8,0.00,0.00,0.00,0.00,0.00,0.00,6090.00,0.00,0.00,0.00,0.00,6090.00,Tidewater Marine,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00491-Yoshida,Downtown,0.00,0.0,0.00,28420.41,0.0,0.00,0.00,0.00,0.00,0.00,0.00,28420.41,0.00,0.00,0.00,0.00,28420.41,Yusuf Yoshida,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00510-Hargrove,Downtown,0.00,0.0,0.00,240.00,0.5,0.00,0.00,0.00,0.00,0.00,0.00,2570.00,0.00,0.00,0.00,0.00,2570.00,Greta Hargrove,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00512-Merriweather,Downtown,0.00,0.0,0.00,1188.00,2.6,0.00,0.00,0.00,0.00,0.00,0.00,360.00,0.00,0.00,0.00,0.00,360.00,Iris Merriweather,Family law,Divorce,Elena Brightwater,0.00,0.00
+00513-Galloway,Downtown,0.00,0.0,0.00,1072.50,3.3,0.00,0.00,0.00,0.00,0.00,0.00,1690.00,0.00,0.00,0.00,0.00,1690.00,Wes Galloway,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00518-Kettering,Downtown,285.00,0.6,0.00,3933.00,8.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Dev Kettering,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00519-Granite,Downtown,0.00,0.0,0.00,2270.00,4.5,0.00,0.00,0.00,0.00,0.00,0.00,1470.00,0.00,0.00,0.00,0.00,1470.00,Granite State Roofing,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00526-Evergreen,Downtown,0.00,0.0,0.00,2830.00,5.7,0.00,0.00,0.00,0.00,0.00,0.00,2830.00,0.00,0.00,0.00,0.00,2830.00,Evergreen Outfitters,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00528-Wetherby,Downtown,0.00,0.0,0.00,214.50,0.8,0.00,0.00,0.00,0.00,0.00,0.00,214.50,0.00,0.00,0.00,0.00,214.50,Bea Wetherby,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00531-Fenwick,Downtown,0.00,0.0,0.00,33447.25,0.0,0.00,0.00,0.00,0.00,0.00,0.00,33447.25,0.00,0.00,0.00,0.00,33447.25,Ines Fenwick,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00542-Ironbark,Downtown,910.00,2.8,0.00,5174.00,15.9,0.00,0.00,0.00,0.00,0.00,0.00,5499.00,0.00,0.00,0.00,0.00,5499.00,Ironbark Fabrication,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00558-Northgate,Downtown,0.00,0.0,0.00,1462.50,4.5,0.00,0.00,0.00,0.00,0.00,0.00,1462.50,0.00,0.00,0.00,0.00,1462.50,Northgate Freight,Business litigation,Partnership dispute,Aisha Lindqvist,0.00,0.00
+00559-Underhill,Downtown,0.00,0.0,0.00,61982.18,0.0,0.00,0.00,0.00,0.00,0.00,0.00,61982.18,0.00,0.00,0.00,0.00,61982.18,Orla Underhill,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00564-Yoshida,Downtown,0.00,0.0,0.00,1681.50,3.5,0.00,0.00,0.00,0.00,0.00,0.00,1805.00,0.00,0.00,0.00,0.00,1805.00,Beatrix Yoshida,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00565-Zimmerman,Downtown,0.00,0.0,0.00,24364.89,0.0,0.00,0.00,0.00,0.00,0.00,0.00,24364.89,0.00,0.00,0.00,0.00,24364.89,Fern Zimmerman,Personal injury,Slip and fall,Luca Bergstrom,0.00,0.00
+00571-Eastwick,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,950.00,0.00,0.00,0.00,0.00,950.00,Mina Eastwick,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00578-Ingram,Downtown,0.00,0.0,0.00,23315.24,0.0,0.00,0.00,0.00,0.00,0.00,0.00,23315.24,0.00,0.00,0.00,0.00,23315.24,Kai Ingram,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00579-Northgate,Downtown,0.00,0.0,0.00,4227.50,8.9,0.00,0.00,0.00,0.00,0.00,0.00,1852.50,0.00,0.00,0.00,0.00,1852.50,Northgate Freight,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00590-Kingsley,Downtown,0.00,0.0,0.00,33795.53,0.0,0.00,0.00,0.00,0.00,0.00,0.00,33795.53,0.00,0.00,0.00,0.00,33795.53,Kira Kingsley,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00599-Fairbairn,Downtown,1100.00,2.2,0.00,900.00,1.8,0.00,0.00,0.00,0.00,0.00,0.00,900.00,0.00,0.00,0.00,0.00,900.00,Bea Fairbairn,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00609-Thistlewood,Downtown,0.00,0.0,0.00,858.00,3.1,0.00,0.00,0.00,0.00,0.00,0.00,379.50,0.00,0.00,0.00,0.00,379.50,Yusuf Thistlewood,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00622-Ostrander,Downtown,0.00,0.0,0.00,9750.22,0.0,0.00,0.00,0.00,0.00,0.00,0.00,9750.22,0.00,0.00,0.00,0.00,9750.22,Odette Ostrander,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00627-Radcliffe,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1768.50,0.00,0.00,0.00,0.00,1768.50,Quinn Radcliffe,Family law,Child custody,Elena Brightwater,0.00,0.00
+00630-Northgate,Downtown,0.00,0.0,0.00,450.00,0.9,0.00,0.00,0.00,0.00,0.00,0.00,450.00,0.00,0.00,0.00,0.00,450.00,Northgate Freight,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00633-Thistlewood,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,605.00,0.00,0.00,0.00,0.00,605.00,Jonas Thistlewood,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00636-Vandenberg,Downtown,0.00,0.0,0.00,26364.99,0.0,0.00,0.00,0.00,0.00,0.00,0.00,26364.99,0.00,0.00,0.00,0.00,26364.99,Pia Vandenberg,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00641-Lumen,Downtown,1330.00,2.8,0.00,6982.50,14.7,0.00,0.00,0.00,0.00,0.00,0.00,8930.00,0.00,0.00,0.00,0.00,8930.00,Lumen Optics,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00655-Holloway,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,540.00,0.00,0.00,0.00,0.00,540.00,Lars Holloway,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00656-Vandenberg,Downtown,0.00,0.0,0.00,19199.29,0.0,0.00,0.00,0.00,0.00,0.00,0.00,19199.29,0.00,0.00,0.00,0.00,19199.29,Kai Vandenberg,Personal injury,Slip and fall,Noor Castellanos,0.00,0.00
+00658-Radcliffe,Downtown,0.00,0.0,0.00,765.00,1.7,0.00,0.00,0.00,0.00,0.00,0.00,765.00,0.00,0.00,0.00,0.00,765.00,Wynn Radcliffe,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00664-Thistlewood,Downtown,0.00,0.0,0.00,2230.00,4.5,0.00,0.00,0.00,0.00,0.00,0.00,3980.00,0.00,0.00,0.00,0.00,3980.00,Aldo Thistlewood,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00670-Hargrove,Downtown,0.00,0.0,0.00,288.00,0.6,0.00,0.00,0.00,0.00,0.00,0.00,1818.00,0.00,0.00,0.00,0.00,1818.00,Pax Hargrove,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00674-Hargrove,Downtown,1350.00,3.0,0.00,2916.00,6.5,0.00,0.00,0.00,0.00,0.00,0.00,1404.00,0.00,0.00,0.00,0.00,1404.00,Anders Hargrove,Family law,Divorce,Elena Brightwater,0.00,0.00
+00675-Rothwell,Downtown,0.00,0.0,0.00,148.50,0.5,0.00,0.00,0.00,0.00,0.00,0.00,148.50,0.00,0.00,0.00,0.00,148.50,Joss Rothwell,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00677-Whitlock,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1530.00,0.00,0.00,0.00,0.00,1530.00,Hana Whitlock,Family law,Child custody,Elena Brightwater,0.00,0.00
+00678-Montrose,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,797.50,0.00,0.00,0.00,0.00,797.50,Yusuf Montrose,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00685-Northcott,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1800.00,0.00,0.00,0.00,0.00,1800.00,Leona Northcott,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00690-Everhart,Downtown,165.00,0.6,0.00,4193.75,15.2,0.00,0.00,0.00,0.00,0.00,0.00,3135.00,0.00,0.00,0.00,0.00,3135.00,Dion Everhart,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00692-Jessup,Downtown,0.00,0.0,0.00,7760.71,0.0,0.00,0.00,0.00,0.00,0.00,0.00,7760.71,0.00,0.00,0.00,0.00,7760.71,Leona Jessup,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00694-Lockhart,Downtown,550.00,2.0,0.00,387.75,1.4,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Elio Lockhart,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00698-Copperfield,Downtown,2400.00,4.8,0.00,560.00,1.1,0.00,0.00,0.00,0.00,0.00,0.00,560.00,0.00,0.00,0.00,0.00,560.00,Copperfield Roasters,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00703-Underhill,Downtown,0.00,0.0,0.00,10615.38,0.0,0.00,0.00,0.00,0.00,0.00,0.00,10615.38,0.00,0.00,0.00,0.00,10615.38,Kai Underhill,Personal injury,Car accident,Noor Castellanos,0.00,0.00
+00705-Fairbairn,Downtown,0.00,0.0,0.00,16652.22,0.0,0.00,0.00,0.00,0.00,0.00,0.00,16652.22,0.00,0.00,0.00,0.00,16652.22,Yara Fairbairn,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00707-Wetherby,Downtown,0.00,0.0,0.00,1045.00,3.8,0.00,0.00,0.00,0.00,0.00,0.00,660.00,0.00,0.00,0.00,0.00,660.00,Quinn Wetherby,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00708-Yarborough,Downtown,0.00,0.0,0.00,2350.00,4.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Kira Yarborough,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00709-Stanhope,Downtown,0.00,0.0,0.00,616.00,2.2,0.00,0.00,0.00,0.00,0.00,0.00,1424.50,0.00,0.00,0.00,0.00,1424.50,Xena Stanhope,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00713-Yarborough,Downtown,0.00,0.0,0.00,379.50,1.4,0.00,0.00,0.00,0.00,0.00,0.00,379.50,0.00,0.00,0.00,0.00,379.50,Hugo Yarborough,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+00716-Sutcliffe,Downtown,0.00,0.0,0.00,180.00,0.4,0.00,0.00,0.00,0.00,0.00,0.00,1822.50,0.00,0.00,0.00,0.00,1822.50,Jonas Sutcliffe,Family law,Divorce,Elena Brightwater,0.00,0.00
+00721-Dunmore,Downtown,1527.50,4.7,0.00,3298.75,10.1,0.00,0.00,0.00,0.00,0.00,0.00,2856.75,0.00,0.00,0.00,0.00,2856.75,Fern Dunmore,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00723-Ellsworth,Downtown,390.00,1.2,0.00,2548.00,7.8,0.00,0.00,0.00,0.00,0.00,0.00,2548.00,0.00,0.00,0.00,0.00,2548.00,Cyrus Ellsworth,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00728-Bellwether,Downtown,2200.00,4.4,0.00,1200.00,2.4,0.00,0.00,0.00,0.00,0.00,0.00,1200.00,0.00,0.00,0.00,0.00,1200.00,Bellwether Pet Care,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00729-Radcliffe,Downtown,660.00,2.4,0.00,57.75,0.2,0.00,0.00,0.00,0.00,0.00,0.00,107.25,0.00,0.00,0.00,0.00,107.25,Sana Radcliffe,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00730-Hargrove,Downtown,150.00,0.3,0.00,2480.00,5.0,0.00,0.00,0.00,0.00,0.00,0.00,2480.00,0.00,0.00,0.00,0.00,2480.00,Uri Hargrove,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00732-Dunleavy,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,700.00,0.00,0.00,0.00,0.00,700.00,Edie Dunleavy,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00735-Okonkwo,Downtown,225.00,0.5,0.00,2088.00,4.6,0.00,0.00,0.00,0.00,0.00,0.00,2088.00,0.00,0.00,0.00,0.00,2088.00,Beatrix Okonkwo,Family law,Divorce,Elena Brightwater,0.00,0.00
+00736-Ullman,Downtown,540.00,1.2,0.00,1935.00,4.3,0.00,0.00,0.00,0.00,0.00,0.00,1935.00,0.00,0.00,0.00,0.00,1935.00,Lars Ullman,Family law,Child custody,Elena Brightwater,0.00,0.00
+00739-Montrose,Downtown,0.00,0.0,0.00,800.00,1.6,0.00,0.00,0.00,0.00,0.00,0.00,800.00,0.00,0.00,0.00,0.00,800.00,Gus Montrose,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00741-Bellwether,Downtown,1072.50,3.9,0.00,1982.75,7.2,0.00,0.00,0.00,0.00,0.00,0.00,2153.25,0.00,0.00,0.00,0.00,2153.25,Bellwether Pet Care,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00742-Fitzwilliam,Downtown,0.00,0.0,0.00,420.00,1.4,0.00,0.00,0.00,0.00,0.00,0.00,420.00,0.00,0.00,0.00,0.00,420.00,Zara Fitzwilliam,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00743-Brackenridge,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,978.00,0.00,0.00,0.00,0.00,978.00,Tess Brackenridge,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00747-Nightingale,Downtown,0.00,0.0,0.00,1008.00,2.2,0.00,0.00,0.00,0.00,0.00,0.00,2763.00,0.00,0.00,0.00,0.00,2763.00,Dara Nightingale,Family law,Divorce,Elena Brightwater,0.00,0.00
+00749-Hargrove,Downtown,0.00,0.0,0.00,17636.45,0.0,0.00,0.00,0.00,0.00,0.00,0.00,17636.45,0.00,0.00,0.00,0.00,17636.45,Gus Hargrove,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00750-Birchfield,Downtown,600.00,1.2,0.00,4740.00,9.5,0.00,0.00,0.00,0.00,0.00,0.00,3490.00,0.00,0.00,0.00,0.00,3490.00,Cyrus Birchfield,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00751-Birchfield,Downtown,0.00,0.0,0.00,1040.00,3.2,0.00,0.00,0.00,0.00,0.00,0.00,3045.25,0.00,0.00,0.00,0.00,3045.25,Vik Birchfield,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00752-Merriweather,Downtown,285.00,0.6,0.00,4522.00,9.5,0.00,0.00,0.00,0.00,0.00,0.00,5548.00,0.00,0.00,0.00,0.00,5548.00,Dara Merriweather,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00755-Tillman,Downtown,0.00,0.0,0.00,15564.06,0.0,0.00,0.00,0.00,0.00,0.00,0.00,15564.06,0.00,0.00,0.00,0.00,15564.06,Theo Tillman,Personal injury,Car accident,Gideon Strand,0.00,0.00
+00756-Harlan,Downtown,2275.00,7.0,0.00,442.00,1.4,0.00,0.00,0.00,0.00,0.00,0.00,2034.50,0.00,0.00,0.00,0.00,2034.50,Harlan Industrial,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00765-Alder,Downtown,0.00,0.0,0.00,1757.50,3.7,0.00,0.00,0.00,0.00,0.00,0.00,1092.50,0.00,0.00,0.00,0.00,1092.50,Alder Street Bakery,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00771-Umber,Downtown,2470.00,7.6,0.00,975.00,3.0,0.00,0.00,0.00,0.00,0.00,0.00,975.00,0.00,0.00,0.00,0.00,975.00,Umber Creative,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00780-Granite,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1300.00,0.00,0.00,0.00,0.00,1300.00,Granite State Roofing,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00782-Harlan,Downtown,1897.50,6.9,0.00,2994.75,10.9,0.00,0.00,0.00,0.00,0.00,0.00,3346.75,0.00,0.00,0.00,0.00,3346.75,Harlan Industrial,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+00785-Stanhope,Downtown,0.00,0.0,0.00,396.00,1.3,0.00,0.00,0.00,0.00,0.00,0.00,726.00,0.00,0.00,0.00,0.00,726.00,Wynn Stanhope,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+00792-Eastwick,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,225.00,0.00,0.00,0.00,0.00,225.00,Dion Eastwick,Family law,Child custody,Elena Brightwater,0.00,0.00
+00797-Dunleavy,Downtown,0.00,0.0,0.00,16456.38,0.0,0.00,0.00,0.00,0.00,0.00,0.00,16456.38,0.00,0.00,0.00,0.00,16456.38,Yara Dunleavy,Personal injury,Car accident,Noor Castellanos,0.00,0.00
+00798-Kestrel,Downtown,900.00,1.8,0.00,4820.00,9.6,0.00,0.00,0.00,0.00,0.00,0.00,3010.00,0.00,0.00,0.00,0.00,3010.00,Kestrel Aviation,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00799-Cavendish,Downtown,0.00,0.0,0.00,202.50,0.5,0.00,0.00,0.00,0.00,0.00,0.00,202.50,0.00,0.00,0.00,0.00,202.50,Sol Cavendish,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00801-Jessup,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,165.00,0.00,0.00,0.00,0.00,165.00,Odette Jessup,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+00802-Montrose,Downtown,0.00,0.0,0.00,31307.77,0.0,0.00,0.00,0.00,0.00,0.00,0.00,31307.77,0.00,0.00,0.00,0.00,31307.77,Yara Montrose,Personal injury,Car accident,Luca Bergstrom,0.00,0.00
+00803-Northcott,Downtown,0.00,0.0,0.00,975.00,3.2,0.00,0.00,0.00,0.00,0.00,0.00,2121.00,0.00,0.00,0.00,0.00,2121.00,Greta Northcott,Family law,Child custody,Tomas Ferreira,0.00,0.00
+00807-Montrose,Downtown,1235.00,2.6,0.00,5424.50,11.4,0.00,0.00,0.00,0.00,0.00,0.00,5424.50,0.00,0.00,0.00,0.00,5424.50,Wynn Montrose,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00811-Brackenridge,Downtown,0.00,0.0,0.00,629.75,2.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Iris Brackenridge,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00812-Sutcliffe,Downtown,1950.00,6.5,0.00,2760.00,9.2,0.00,0.00,0.00,0.00,0.00,0.00,2760.00,0.00,0.00,0.00,0.00,2760.00,Pax Sutcliffe,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+00817-Ullman,Downtown,0.00,0.0,0.00,4111.25,12.7,0.00,0.00,0.00,0.00,0.00,0.00,6451.25,0.00,0.00,0.00,0.00,6451.25,Yara Ullman,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00818-Marlow,Downtown,797.50,2.9,0.00,2942.50,10.7,0.00,0.00,0.00,0.00,0.00,0.00,2942.50,0.00,0.00,0.00,0.00,2942.50,Marlow Building Group,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00819-Brightline,Downtown,500.00,1.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,325.00,0.00,0.00,0.00,0.00,325.00,Brightline Dental,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00825-Grayling,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5557.50,0.00,0.00,0.00,0.00,5557.50,Beatrix Grayling,Family law,Divorce,Elena Brightwater,0.00,0.00
+00831-Holloway,Downtown,0.00,0.0,0.00,1995.00,4.2,0.00,0.00,0.00,0.00,0.00,0.00,4940.00,0.00,0.00,0.00,0.00,4940.00,Lars Holloway,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+00832-Ivesley,Downtown,0.00,0.0,0.00,2808.00,6.2,0.00,0.00,0.00,0.00,0.00,0.00,3483.00,0.00,0.00,0.00,0.00,3483.00,Callum Ivesley,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00835-Ostrander,Downtown,0.00,0.0,0.00,1800.00,3.6,0.00,0.00,0.00,0.00,0.00,0.00,1800.00,0.00,0.00,0.00,0.00,1800.00,Tess Ostrander,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00837-Ellsworth,Downtown,0.00,0.0,0.00,107.25,0.4,0.00,0.00,0.00,0.00,0.00,0.00,173.25,0.00,0.00,0.00,0.00,173.25,Mina Ellsworth,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00838-Yoshida,Downtown,0.00,0.0,0.00,47803.49,0.0,0.00,0.00,0.00,0.00,0.00,0.00,47803.49,0.00,0.00,0.00,0.00,47803.49,Finn Yoshida,Personal injury,Slip and fall,Noor Castellanos,0.00,0.00
+00840-Okonkwo,Downtown,0.00,0.0,0.00,146210.92,0.0,0.00,0.00,0.00,0.00,0.00,0.00,146210.92,0.00,0.00,0.00,0.00,146210.92,Dion Okonkwo,Personal injury,Dog bite,Gideon Strand,0.00,0.00
+00841-Hargrove,Downtown,3182.50,6.7,0.00,6555.00,13.8,0.00,0.00,0.00,0.00,0.00,0.00,10117.50,0.00,0.00,0.00,0.00,10117.50,Anders Hargrove,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+00846-Ullman,Downtown,0.00,0.0,0.00,1134.00,3.8,0.00,0.00,0.00,0.00,0.00,0.00,1350.00,0.00,0.00,0.00,0.00,1350.00,Wynn Ullman,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00847-Birchfield,Downtown,0.00,0.0,0.00,187.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,137.50,0.00,0.00,0.00,0.00,137.50,Leona Birchfield,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00848-Everhart,Downtown,0.00,0.0,0.00,120.00,0.4,0.00,0.00,0.00,0.00,0.00,0.00,120.00,0.00,0.00,0.00,0.00,120.00,Joss Everhart,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+00850-Ivesley,Downtown,0.00,0.0,0.00,1260.00,2.8,0.00,0.00,0.00,0.00,0.00,0.00,1260.00,0.00,0.00,0.00,0.00,1260.00,Finn Ivesley,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00851-Hargrove,Downtown,4037.50,8.5,0.00,2014.00,4.2,0.00,0.00,0.00,0.00,0.00,0.00,2109.00,0.00,0.00,0.00,0.00,2109.00,Zane Hargrove,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+00852-Yoshida,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,467.50,0.00,0.00,0.00,0.00,467.50,Orla Yoshida,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+00854-Underhill,Downtown,577.50,2.1,0.00,2458.50,8.9,0.00,0.00,0.00,0.00,0.00,0.00,2150.50,0.00,0.00,0.00,0.00,2150.50,Pax Underhill,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00855-Vandenberg,Downtown,467.50,1.7,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Wynn Vandenberg,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+00856-Holloway,Downtown,945.00,2.1,0.00,990.00,2.2,0.00,0.00,0.00,0.00,0.00,0.00,990.00,0.00,0.00,0.00,0.00,990.00,Leona Holloway,Family law,Divorce,Elena Brightwater,0.00,0.00
+00858-Westfall,Downtown,250.00,0.5,0.00,2100.00,4.2,0.00,0.00,0.00,0.00,0.00,0.00,3225.00,0.00,0.00,0.00,0.00,3225.00,Westfall Tool and Die,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00859-Wetherby,Downtown,0.00,0.0,0.00,783.75,2.8,0.00,0.00,0.00,0.00,0.00,0.00,783.75,0.00,0.00,0.00,0.00,783.75,Milo Wetherby,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00860-Kingsley,Downtown,0.00,0.0,0.00,4035.00,13.5,0.00,0.00,0.00,0.00,0.00,0.00,3195.00,0.00,0.00,0.00,0.00,3195.00,Gail Kingsley,Family law,Child custody,Tomas Ferreira,0.00,0.00
+00861-Ullman,Downtown,1035.00,2.3,0.00,4725.00,10.5,0.00,0.00,0.00,0.00,0.00,0.00,4725.00,0.00,0.00,0.00,0.00,4725.00,Jonas Ullman,Family law,Divorce,Elena Brightwater,0.00,0.00
+00863-Ivesley,Downtown,1215.00,2.7,0.00,990.00,2.2,0.00,0.00,0.00,0.00,0.00,0.00,585.00,0.00,0.00,0.00,0.00,585.00,Iris Ivesley,Family law,Divorce,Elena Brightwater,0.00,0.00
+00864-Ostrander,Downtown,1890.00,4.2,0.00,3685.50,8.2,0.00,0.00,0.00,0.00,0.00,0.00,2965.50,0.00,0.00,0.00,0.00,2965.50,Uri Ostrander,Family law,Divorce,Elena Brightwater,0.00,0.00
+00865-Copperfield,Downtown,0.00,0.0,0.00,649.00,2.4,0.00,0.00,0.00,0.00,0.00,0.00,1023.00,0.00,0.00,0.00,0.00,1023.00,Copperfield Roasters,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00868-Zimmerman,Downtown,440.00,1.6,0.00,173.25,0.6,0.00,0.00,0.00,0.00,0.00,0.00,385.00,0.00,0.00,0.00,0.00,385.00,Milo Zimmerman,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00872-Ullman,Downtown,0.00,0.0,0.00,1207.25,4.4,0.00,0.00,0.00,0.00,0.00,0.00,1207.25,0.00,0.00,0.00,0.00,1207.25,Tess Ullman,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00874-Quillfeather,Downtown,495.00,1.1,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Leona Quillfeather,Family law,Divorce,Elena Brightwater,0.00,0.00
+00875-Cranmer,Downtown,0.00,0.0,0.00,432.00,1.0,0.00,0.00,0.00,0.00,0.00,0.00,630.00,0.00,0.00,0.00,0.00,630.00,Aldo Cranmer,Family law,Spousal support,Elena Brightwater,0.00,0.00
+00878-Redwood,Downtown,2300.00,4.6,0.00,350.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,2000.00,0.00,0.00,0.00,0.00,2000.00,Redwood Analytics,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+00880-Birchfield,Downtown,0.00,0.0,0.00,1251.25,3.8,0.00,0.00,0.00,0.00,0.00,0.00,1088.75,0.00,0.00,0.00,0.00,1088.75,Gus Birchfield,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00883-Ivesley,Downtown,0.00,0.0,0.00,1350.00,3.0,0.00,0.00,0.00,0.00,0.00,0.00,360.00,0.00,0.00,0.00,0.00,360.00,Bryn Ivesley,Family law,Child custody,Elena Brightwater,0.00,0.00
+00885-Rothwell,Downtown,0.00,0.0,0.00,300.00,1.0,0.00,0.00,0.00,0.00,0.00,0.00,756.00,0.00,0.00,0.00,0.00,756.00,Xena Rothwell,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+00888-Northgate,Downtown,1000.00,2.0,0.00,2150.00,4.3,0.00,0.00,0.00,0.00,0.00,0.00,3180.00,0.00,0.00,0.00,0.00,3180.00,Northgate Freight,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00890-Ullman,Downtown,0.00,0.0,0.00,618.75,2.2,0.00,0.00,0.00,0.00,0.00,0.00,618.75,0.00,0.00,0.00,0.00,618.75,Quinn Ullman,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00891-Cavendish,Downtown,0.00,0.0,0.00,1215.00,2.7,0.00,0.00,0.00,0.00,0.00,0.00,1215.00,0.00,0.00,0.00,0.00,1215.00,Amara Cavendish,Family law,Divorce,Elena Brightwater,0.00,0.00
+00892-Ingram,Downtown,0.00,0.0,0.00,3217.50,7.1,0.00,0.00,0.00,0.00,0.00,0.00,2902.50,0.00,0.00,0.00,0.00,2902.50,Orla Ingram,Family law,Divorce,Elena Brightwater,0.00,0.00
+00898-Yarborough,Downtown,137.50,0.5,0.00,1287.00,4.7,0.00,0.00,0.00,0.00,0.00,0.00,1287.00,0.00,0.00,0.00,0.00,1287.00,Remy Yarborough,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00900-Bellwether,Downtown,1650.00,6.0,0.00,4906.00,17.8,0.00,0.00,0.00,0.00,0.00,0.00,4906.00,0.00,0.00,0.00,0.00,4906.00,Bellwether Pet Care,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00902-Abernathy,Downtown,577.50,2.1,0.00,115.50,0.4,0.00,0.00,0.00,0.00,0.00,0.00,346.50,0.00,0.00,0.00,0.00,346.50,Finn Abernathy,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00908-Ostrander,Downtown,225.00,0.5,0.00,2547.00,5.7,0.00,0.00,0.00,0.00,0.00,0.00,2007.00,0.00,0.00,0.00,0.00,2007.00,Bea Ostrander,Family law,Child custody,Elena Brightwater,0.00,0.00
+00909-Galloway,Downtown,990.00,2.2,0.00,630.00,1.4,0.00,0.00,0.00,0.00,0.00,0.00,630.00,0.00,0.00,0.00,0.00,630.00,Xena Galloway,Family law,Divorce,Elena Brightwater,0.00,0.00
+00911-Castellane,Downtown,0.00,0.0,0.00,5681.00,12.0,0.00,0.00,0.00,0.00,0.00,0.00,5681.00,0.00,0.00,0.00,0.00,5681.00,Kai Castellane,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+00912-Cavendish,Downtown,0.00,0.0,0.00,1650.00,6.0,0.00,0.00,0.00,0.00,0.00,0.00,1650.00,0.00,0.00,0.00,0.00,1650.00,Bryn Cavendish,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00915-Vandenberg,Downtown,0.00,0.0,0.00,1377.50,2.9,0.00,0.00,0.00,0.00,0.00,0.00,1377.50,0.00,0.00,0.00,0.00,1377.50,Joss Vandenberg,Business litigation,Non-compete,Imani Rourke,0.00,0.00
+00916-Evergreen,Downtown,0.00,0.0,0.00,2725.00,5.4,0.00,0.00,0.00,0.00,0.00,0.00,2725.00,0.00,0.00,0.00,0.00,2725.00,Evergreen Outfitters,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00917-Ostrander,Downtown,0.00,0.0,0.00,315.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,315.00,0.00,0.00,0.00,0.00,315.00,Pax Ostrander,Family law,Divorce,Elena Brightwater,0.00,0.00
+00919-Northcott,Downtown,510.00,1.7,0.00,1554.00,5.2,0.00,0.00,0.00,0.00,0.00,0.00,1554.00,0.00,0.00,0.00,0.00,1554.00,Yusuf Northcott,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00928-Pemberley,Downtown,0.00,0.0,0.00,321.75,1.2,0.00,0.00,0.00,0.00,0.00,0.00,321.75,0.00,0.00,0.00,0.00,321.75,Quinn Pemberley,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00930-Stanhope,Downtown,330.00,1.2,0.00,1287.00,4.7,0.00,0.00,0.00,0.00,0.00,0.00,1287.00,0.00,0.00,0.00,0.00,1287.00,Pax Stanhope,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00932-Silverleaf,Downtown,750.00,1.5,0.00,6235.00,12.5,0.00,0.00,0.00,0.00,0.00,0.00,6235.00,0.00,0.00,0.00,0.00,6235.00,Silverleaf Foods,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00935-Ullman,Downtown,210.00,0.7,0.00,2340.00,7.8,0.00,0.00,0.00,0.00,0.00,0.00,3390.00,0.00,0.00,0.00,0.00,3390.00,Gus Ullman,Family law,Child custody,Tomas Ferreira,0.00,0.00
+00936-Quillfeather,Downtown,0.00,0.0,0.00,3636.00,8.1,0.00,0.00,0.00,0.00,0.00,0.00,5931.00,0.00,0.00,0.00,0.00,5931.00,Anders Quillfeather,Family law,Divorce,Elena Brightwater,0.00,0.00
+00940-Hartnell,Downtown,0.00,0.0,0.00,975.00,3.0,0.00,0.00,0.00,0.00,0.00,0.00,975.00,0.00,0.00,0.00,0.00,975.00,Cleo Hartnell,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+00942-Dunmore,Downtown,0.00,0.0,0.00,540.00,1.8,0.00,0.00,0.00,0.00,0.00,0.00,1278.00,0.00,0.00,0.00,0.00,1278.00,Greta Dunmore,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00943-Rothwell,Downtown,2610.00,5.8,0.00,4342.50,9.7,0.00,0.00,0.00,0.00,0.00,0.00,4342.50,0.00,0.00,0.00,0.00,4342.50,Orla Rothwell,Family law,Child custody,Elena Brightwater,0.00,0.00
+00945-Sutcliffe,Downtown,0.00,0.0,0.00,627.00,2.3,0.00,0.00,0.00,0.00,0.00,0.00,627.00,0.00,0.00,0.00,0.00,627.00,Milo Sutcliffe,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00946-Aldridge,Downtown,630.00,1.4,0.00,562.50,1.2,0.00,0.00,0.00,0.00,0.00,0.00,562.50,0.00,0.00,0.00,0.00,562.50,Milo Aldridge,Family law,Divorce,Elena Brightwater,0.00,0.00
+00948-Dunmore,Downtown,330.00,1.2,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1831.50,0.00,0.00,0.00,0.00,1831.50,Beatrix Dunmore,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00949-Sutcliffe,Downtown,1260.00,2.8,0.00,1080.00,2.4,0.00,0.00,0.00,0.00,0.00,0.00,2160.00,0.00,0.00,0.00,0.00,2160.00,Dion Sutcliffe,Family law,Child custody,Elena Brightwater,0.00,0.00
+00953-Pemberley,Downtown,0.00,0.0,0.00,1845.00,3.7,0.00,0.00,0.00,0.00,0.00,0.00,4245.00,0.00,0.00,0.00,0.00,4245.00,Xena Pemberley,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+00954-Lindgren,Downtown,0.00,0.0,0.00,2907.00,9.7,0.00,0.00,0.00,0.00,0.00,0.00,2397.00,0.00,0.00,0.00,0.00,2397.00,Greta Lindgren,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00955-Pemberley,Downtown,0.00,0.0,0.00,1300.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1300.00,0.00,0.00,0.00,0.00,1300.00,Pia Pemberley,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+00957-Okonkwo,Downtown,0.00,0.0,0.00,2190.00,7.3,0.00,0.00,0.00,0.00,0.00,0.00,900.00,0.00,0.00,0.00,0.00,900.00,Xena Okonkwo,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00963-Ivesley,Downtown,1410.00,4.7,0.00,1860.00,6.2,0.00,0.00,0.00,0.00,0.00,0.00,1050.00,0.00,0.00,0.00,0.00,1050.00,Vik Ivesley,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00965-Fairbairn,Downtown,0.00,0.0,0.00,2400.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2400.00,0.00,0.00,0.00,0.00,2400.00,Hana Fairbairn,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+00968-Tillman,Downtown,550.00,2.0,0.00,198.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,198.00,0.00,0.00,0.00,0.00,198.00,Pax Tillman,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+00969-Ivesley,Downtown,4000.00,8.0,0.00,1150.00,2.3,0.00,0.00,0.00,0.00,0.00,0.00,1150.00,0.00,0.00,0.00,0.00,1150.00,Una Ivesley,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+00973-Stanhope,Downtown,0.00,0.0,0.00,693.00,2.5,0.00,0.00,0.00,0.00,0.00,0.00,693.00,0.00,0.00,0.00,0.00,693.00,Uri Stanhope,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+00977-Westfall,Downtown,550.00,2.0,0.00,3935.25,14.3,0.00,0.00,0.00,0.00,0.00,0.00,4182.75,0.00,0.00,0.00,0.00,4182.75,Westfall Tool and Die,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+00982-Quillfeather,Downtown,0.00,0.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1065.00,0.00,0.00,0.00,0.00,1065.00,Cleo Quillfeather,Family law,Child custody,Tomas Ferreira,0.00,0.00
+00983-Holloway,Downtown,1575.00,3.5,0.00,5220.00,11.6,0.00,0.00,0.00,0.00,0.00,0.00,4356.00,0.00,0.00,0.00,0.00,4356.00,Orla Holloway,Family law,Child custody,Elena Brightwater,0.00,0.00
+00985-Ellsworth,Downtown,1512.50,5.5,0.00,445.50,1.6,0.00,0.00,0.00,0.00,0.00,0.00,445.50,0.00,0.00,0.00,0.00,445.50,Cleo Ellsworth,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+00987-Abernathy,Downtown,0.00,0.0,0.00,1875.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1875.00,0.00,0.00,0.00,0.00,1875.00,Remy Abernathy,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+00988-Harlan,Downtown,3282.50,10.1,0.00,1852.50,5.7,0.00,0.00,0.00,0.00,0.00,0.00,2216.50,0.00,0.00,0.00,0.00,2216.50,Harlan Industrial,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+00990-Stanhope,Downtown,0.00,0.0,0.00,2200.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2200.00,0.00,0.00,0.00,0.00,2200.00,Lars Stanhope,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+00991-Brackenridge,Downtown,247.50,0.9,0.00,321.75,1.2,0.00,0.00,0.00,0.00,0.00,0.00,321.75,0.00,0.00,0.00,0.00,321.75,Vik Brackenridge,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00993-Copperfield,Downtown,550.00,2.0,0.00,1490.50,5.4,0.00,0.00,0.00,0.00,0.00,0.00,2172.50,0.00,0.00,0.00,0.00,2172.50,Copperfield Roasters,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+00996-Lockhart,Downtown,690.00,2.3,0.00,2790.00,9.3,0.00,0.00,0.00,0.00,0.00,0.00,2790.00,0.00,0.00,0.00,0.00,2790.00,Joss Lockhart,Family law,Divorce,Tomas Ferreira,0.00,0.00
+00997-Hargrove,Downtown,852.50,3.1,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Vera Hargrove,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+00998-Hargrove,Downtown,0.00,0.0,0.00,2375.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2375.00,0.00,0.00,0.00,0.00,2375.00,Ines Hargrove,Estate planning,Power of attorney,Hiro Vandermeer,0.00,0.00
+00999-Stanhope,Downtown,0.00,0.0,0.00,82.50,0.3,0.00,0.00,0.00,0.00,0.00,0.00,82.50,0.00,0.00,0.00,0.00,82.50,Yusuf Stanhope,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01000-Zimmerman,Downtown,0.00,0.0,0.00,12370.42,0.0,0.00,0.00,0.00,0.00,0.00,0.00,12370.42,0.00,0.00,0.00,0.00,12370.42,Uri Zimmerman,Personal injury,Car accident,Gideon Strand,0.00,0.00
+01003-Bellwether,Downtown,0.00,0.0,0.00,4350.00,8.7,0.00,0.00,0.00,0.00,0.00,0.00,1800.00,0.00,0.00,0.00,0.00,1800.00,Bellwether Pet Care,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+01005-Thistlewood,Downtown,225.00,0.5,0.00,2205.00,4.9,0.00,0.00,0.00,0.00,0.00,0.00,2205.00,0.00,0.00,0.00,0.00,2205.00,Gus Thistlewood,Family law,Divorce,Elena Brightwater,0.00,0.00
+01007-Ullman,Downtown,0.00,0.0,0.00,165.00,0.6,0.00,0.00,0.00,0.00,0.00,0.00,66.00,0.00,0.00,0.00,0.00,66.00,Eamon Ullman,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01010-Dunleavy,Downtown,0.00,0.0,0.00,1395.00,4.7,0.00,0.00,0.00,0.00,0.00,0.00,1395.00,0.00,0.00,0.00,0.00,1395.00,Mina Dunleavy,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01011-Galloway,Downtown,0.00,0.0,0.00,148.50,0.5,0.00,0.00,0.00,0.00,0.00,0.00,148.50,0.00,0.00,0.00,0.00,148.50,Lars Galloway,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+01015-Brackenridge,Downtown,0.00,0.0,0.00,2025.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2025.00,0.00,0.00,0.00,0.00,2025.00,Bea Brackenridge,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01017-Zimmerman,Downtown,0.00,0.0,0.00,247.50,0.9,0.00,0.00,0.00,0.00,0.00,0.00,247.50,0.00,0.00,0.00,0.00,247.50,Theo Zimmerman,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01021-Delacroix,Downtown,0.00,0.0,0.00,1098.50,3.4,0.00,0.00,0.00,0.00,0.00,0.00,2106.00,0.00,0.00,0.00,0.00,2106.00,Delacroix Supply,Business litigation,Partnership dispute,Aisha Lindqvist,0.00,0.00
+01022-Stanhope,Downtown,2805.00,10.2,0.00,2695.00,9.8,0.00,0.00,0.00,0.00,0.00,0.00,2695.00,0.00,0.00,0.00,0.00,2695.00,Ines Stanhope,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+01024-Yarborough,Downtown,0.00,0.0,0.00,2375.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2375.00,0.00,0.00,0.00,0.00,2375.00,Nora Yarborough,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01025-Rothwell,Downtown,0.00,0.0,0.00,2325.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2325.00,0.00,0.00,0.00,0.00,2325.00,Callum Rothwell,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01027-Delacroix,Downtown,750.00,1.5,0.00,2000.00,4.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Delacroix Supply,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+01028-Cranmer,Downtown,0.00,0.0,0.00,214.50,0.8,0.00,0.00,0.00,0.00,0.00,0.00,214.50,0.00,0.00,0.00,0.00,214.50,Greta Cranmer,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01029-Yoshida,Downtown,390.00,1.3,0.00,1728.00,5.8,0.00,0.00,0.00,0.00,0.00,0.00,1320.00,0.00,0.00,0.00,0.00,1320.00,Jonas Yoshida,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01030-Aldridge,Downtown,650.00,1.3,0.00,2200.00,4.4,0.00,0.00,0.00,0.00,0.00,0.00,2200.00,0.00,0.00,0.00,0.00,2200.00,Hugo Aldridge,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+01033-Yoshida,Downtown,870.00,2.9,0.00,456.00,1.5,0.00,0.00,0.00,0.00,0.00,0.00,456.00,0.00,0.00,0.00,0.00,456.00,Vera Yoshida,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01034-Ullman,Downtown,0.00,0.0,0.00,2550.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2550.00,0.00,0.00,0.00,0.00,2550.00,Theo Ullman,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01035-Ostrander,Downtown,0.00,0.0,0.00,2900.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2900.00,0.00,0.00,0.00,0.00,2900.00,Greta Ostrander,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01037-Xiong,Downtown,0.00,0.0,0.00,2061.00,4.6,0.00,0.00,0.00,0.00,0.00,0.00,2061.00,0.00,0.00,0.00,0.00,2061.00,Pia Xiong,Family law,Divorce,Elena Brightwater,0.00,0.00
+01043-Jessup,Downtown,0.00,0.0,0.00,3225.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3225.00,0.00,0.00,0.00,0.00,3225.00,Milo Jessup,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01044-Castellane,Downtown,825.00,3.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,319.00,0.00,0.00,0.00,0.00,319.00,Farah Castellane,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+01045-Fairbairn,Downtown,870.00,2.9,0.00,1965.00,6.5,0.00,0.00,0.00,0.00,0.00,0.00,1965.00,0.00,0.00,0.00,0.00,1965.00,Kira Fairbairn,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01046-Hartnell,Downtown,420.00,1.4,0.00,3282.00,10.9,0.00,0.00,0.00,0.00,0.00,0.00,3282.00,0.00,0.00,0.00,0.00,3282.00,Farah Hartnell,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01048-Aldridge,Downtown,2610.00,5.8,0.00,675.00,1.5,0.00,0.00,0.00,0.00,0.00,0.00,1012.50,0.00,0.00,0.00,0.00,1012.50,Amara Aldridge,Family law,Divorce,Elena Brightwater,0.00,0.00
+01050-Rothwell,Downtown,990.00,3.3,0.00,480.00,1.6,0.00,0.00,0.00,0.00,0.00,0.00,480.00,0.00,0.00,0.00,0.00,480.00,Elio Rothwell,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01051-Cranmer,Downtown,0.00,0.0,0.00,1475.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1475.00,0.00,0.00,0.00,0.00,1475.00,Dev Cranmer,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01053-Birchfield,Downtown,0.00,0.0,0.00,1275.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1275.00,0.00,0.00,0.00,0.00,1275.00,Jonas Birchfield,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01054-Brackenridge,Downtown,0.00,0.0,0.00,2575.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2575.00,0.00,0.00,0.00,0.00,2575.00,Mina Brackenridge,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01055-Hartnell,Downtown,0.00,0.0,0.00,1725.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1725.00,0.00,0.00,0.00,0.00,1725.00,Remy Hartnell,Estate planning,Power of attorney,Hiro Vandermeer,0.00,0.00
+01058-Wetherby,Downtown,390.00,1.3,0.00,2793.00,9.3,0.00,0.00,0.00,0.00,0.00,0.00,1155.00,0.00,0.00,0.00,0.00,1155.00,Quinn Wetherby,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+01059-Lumen,Downtown,455.00,1.4,0.00,754.00,2.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Lumen Optics,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+01060-Hartnell,Downtown,0.00,0.0,0.00,540.00,1.2,0.00,0.00,0.00,0.00,0.00,0.00,540.00,0.00,0.00,0.00,0.00,540.00,Sol Hartnell,Family law,Spousal support,Elena Brightwater,0.00,0.00
+01061-Thistlewood,Downtown,0.00,0.0,0.00,2375.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2375.00,0.00,0.00,0.00,0.00,2375.00,Farah Thistlewood,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01062-Pinecrest,Downtown,0.00,0.0,0.00,1580.00,3.2,0.00,0.00,0.00,0.00,0.00,0.00,500.00,0.00,0.00,0.00,0.00,500.00,Pinecrest Logistics,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+01068-Galloway,Downtown,0.00,0.0,0.00,1201.75,4.4,0.00,0.00,0.00,0.00,0.00,0.00,1251.25,0.00,0.00,0.00,0.00,1251.25,Ada Galloway,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01070-Underhill,Downtown,1530.00,3.4,0.00,4212.00,9.4,0.00,0.00,0.00,0.00,0.00,0.00,630.00,0.00,0.00,0.00,0.00,630.00,Vik Underhill,Family law,Spousal support,Elena Brightwater,0.00,0.00
+01071-Stanhope,Downtown,220.00,0.8,0.00,511.50,1.9,0.00,0.00,0.00,0.00,0.00,0.00,511.50,0.00,0.00,0.00,0.00,511.50,Hugo Stanhope,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01072-Galloway,Downtown,0.00,0.0,0.00,165.00,0.6,0.00,0.00,0.00,0.00,0.00,0.00,165.00,0.00,0.00,0.00,0.00,165.00,Sol Galloway,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+01074-Penhallow,Downtown,0.00,0.0,0.00,2281.50,5.1,0.00,0.00,0.00,0.00,0.00,0.00,2281.50,0.00,0.00,0.00,0.00,2281.50,Hal Penhallow,Family law,Divorce,Elena Brightwater,0.00,0.00
+01075-Sutcliffe,Downtown,0.00,0.0,0.00,2700.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2700.00,0.00,0.00,0.00,0.00,2700.00,Aldo Sutcliffe,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01076-Northcott,Downtown,0.00,0.0,0.00,1550.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1550.00,0.00,0.00,0.00,0.00,1550.00,Uri Northcott,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01077-Cranmer,Downtown,0.00,0.0,0.00,2725.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2725.00,0.00,0.00,0.00,0.00,2725.00,Yusuf Cranmer,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01078-Ingram,Downtown,0.00,0.0,0.00,2325.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2325.00,0.00,0.00,0.00,0.00,2325.00,Xena Ingram,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01079-Ashdown,Downtown,495.00,1.1,0.00,112.50,0.2,0.00,0.00,0.00,0.00,0.00,0.00,112.50,0.00,0.00,0.00,0.00,112.50,Vera Ashdown,Family law,Child custody,Elena Brightwater,0.00,0.00
+01080-Gilchrist,Downtown,0.00,0.0,0.00,1875.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1875.00,0.00,0.00,0.00,0.00,1875.00,Gus Gilchrist,Estate planning,Power of attorney,Hiro Vandermeer,0.00,0.00
+01081-Bellweather,Downtown,0.00,0.0,0.00,1017.50,3.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Nora Bellweather,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01083-Hartnell,Downtown,330.00,1.1,0.00,1770.00,5.9,0.00,0.00,0.00,0.00,0.00,0.00,1770.00,0.00,0.00,0.00,0.00,1770.00,Tess Hartnell,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01084-Zimmerman,Downtown,0.00,0.0,0.00,981.00,2.2,0.00,0.00,0.00,0.00,0.00,0.00,981.00,0.00,0.00,0.00,0.00,981.00,Vik Zimmerman,Family law,Divorce,Elena Brightwater,0.00,0.00
+01086-Zimmerman,Downtown,0.00,0.0,0.00,2975.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2975.00,0.00,0.00,0.00,0.00,2975.00,Dion Zimmerman,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01087-Underhill,Downtown,0.00,0.0,0.00,1275.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1275.00,0.00,0.00,0.00,0.00,1275.00,Rafa Underhill,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01088-Sutcliffe,Downtown,0.00,0.0,0.00,2988.00,6.6,0.00,0.00,0.00,0.00,0.00,0.00,2988.00,0.00,0.00,0.00,0.00,2988.00,Ines Sutcliffe,Family law,Child custody,Elena Brightwater,0.00,0.00
+01089-Tillman,Downtown,0.00,0.0,0.00,2450.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2450.00,0.00,0.00,0.00,0.00,2450.00,Leona Tillman,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01091-Zeller,Downtown,765.00,1.7,0.00,324.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,324.00,0.00,0.00,0.00,0.00,324.00,Xena Zeller,Family law,Divorce,Elena Brightwater,0.00,0.00
+01092-Lindgren,Downtown,455.00,1.4,0.00,1901.25,5.8,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pia Lindgren,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+01093-Yoshida,Downtown,220.00,0.8,0.00,330.00,1.2,0.00,0.00,0.00,0.00,0.00,0.00,330.00,0.00,0.00,0.00,0.00,330.00,Xena Yoshida,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01094-Quillfeather,Downtown,0.00,0.0,0.00,2650.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2650.00,0.00,0.00,0.00,0.00,2650.00,Kira Quillfeather,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01096-Gilchrist,Downtown,0.00,0.0,0.00,123.75,0.4,0.00,0.00,0.00,0.00,0.00,0.00,123.75,0.00,0.00,0.00,0.00,123.75,Isla Gilchrist,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01097-Kingsley,Downtown,0.00,0.0,0.00,5950.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5950.00,0.00,0.00,0.00,0.00,5950.00,Finn Kingsley,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01100-Harlan,Downtown,1595.00,5.8,0.00,1256.75,4.6,0.00,0.00,0.00,0.00,0.00,0.00,1256.75,0.00,0.00,0.00,0.00,1256.75,Harlan Industrial,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+01101-Jessup,Downtown,0.00,0.0,0.00,1762.75,6.4,0.00,0.00,0.00,0.00,0.00,0.00,470.25,0.00,0.00,0.00,0.00,470.25,Dion Jessup,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01102-Everhart,Downtown,0.00,0.0,0.00,4250.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,4250.00,0.00,0.00,0.00,0.00,4250.00,Beatrix Everhart,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01103-Ivesley,Downtown,690.00,2.3,0.00,300.00,1.0,0.00,0.00,0.00,0.00,0.00,0.00,300.00,0.00,0.00,0.00,0.00,300.00,Hana Ivesley,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01105-Lumen,Downtown,780.00,2.4,0.00,1872.00,5.8,0.00,0.00,0.00,0.00,0.00,0.00,1872.00,0.00,0.00,0.00,0.00,1872.00,Lumen Optics,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+01106-Rothwell,Downtown,0.00,0.0,0.00,495.00,1.1,0.00,0.00,0.00,0.00,0.00,0.00,495.00,0.00,0.00,0.00,0.00,495.00,Cleo Rothwell,Family law,Divorce,Elena Brightwater,0.00,0.00
+01107-Ostrander,Downtown,2160.00,7.2,0.00,3072.00,10.2,0.00,0.00,0.00,0.00,0.00,0.00,1446.00,0.00,0.00,0.00,0.00,1446.00,Vik Ostrander,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01108-Birchfield,Downtown,0.00,0.0,0.00,3550.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3550.00,0.00,0.00,0.00,0.00,3550.00,Milo Birchfield,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01109-Zeller,Downtown,1600.00,3.2,0.00,1280.00,2.6,0.00,0.00,0.00,0.00,0.00,0.00,1280.00,0.00,0.00,0.00,0.00,1280.00,Yusuf Zeller,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+01110-Everhart,Downtown,1140.00,3.8,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Uri Everhart,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01111-Vandenberg,Downtown,0.00,0.0,0.00,5550.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5550.00,0.00,0.00,0.00,0.00,5550.00,Cleo Vandenberg,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01114-Bellwether,Downtown,700.00,1.4,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Bellwether Pet Care,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+01115-Eastwick,Downtown,750.00,2.5,0.00,360.00,1.2,0.00,0.00,0.00,0.00,0.00,0.00,360.00,0.00,0.00,0.00,0.00,360.00,Jonas Eastwick,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01116-Foxglove,Downtown,780.00,2.4,0.00,4452.50,13.7,0.00,0.00,0.00,0.00,0.00,0.00,2340.00,0.00,0.00,0.00,0.00,2340.00,Foxglove Florals,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+01117-Kingsley,Downtown,467.50,1.7,0.00,2183.50,7.9,0.00,0.00,0.00,0.00,0.00,0.00,176.00,0.00,0.00,0.00,0.00,176.00,Wynn Kingsley,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+01118-Fitzwilliam,Downtown,0.00,0.0,0.00,5000.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5000.00,0.00,0.00,0.00,0.00,5000.00,Hal Fitzwilliam,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01119-Alder,Downtown,1140.00,2.4,0.00,2360.75,5.0,0.00,0.00,0.00,0.00,0.00,0.00,1838.25,0.00,0.00,0.00,0.00,1838.25,Alder Street Bakery,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01121-Castellane,Downtown,0.00,0.0,0.00,3050.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3050.00,0.00,0.00,0.00,0.00,3050.00,Zane Castellane,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01122-Zeller,Downtown,0.00,0.0,0.00,6450.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,6450.00,0.00,0.00,0.00,0.00,6450.00,Edie Zeller,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01123-Aldridge,Downtown,0.00,0.0,0.00,936.00,3.1,0.00,0.00,0.00,0.00,0.00,0.00,936.00,0.00,0.00,0.00,0.00,936.00,Mina Aldridge,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01124-Galloway,Downtown,0.00,0.0,0.00,5800.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5800.00,0.00,0.00,0.00,0.00,5800.00,Kai Galloway,Estate planning,Power of attorney,Hiro Vandermeer,0.00,0.00
+01125-Ashdown,Downtown,247.50,0.9,0.00,156.75,0.6,0.00,0.00,0.00,0.00,0.00,0.00,156.75,0.00,0.00,0.00,0.00,156.75,Nora Ashdown,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01127-Everhart,Downtown,0.00,0.0,0.00,870.00,2.9,0.00,0.00,0.00,0.00,0.00,0.00,870.00,0.00,0.00,0.00,0.00,870.00,Dara Everhart,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01128-Fenwick,Downtown,742.50,2.7,0.00,610.50,2.2,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Uri Fenwick,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01129-Stanhope,Downtown,930.00,3.1,0.00,1170.00,3.9,0.00,0.00,0.00,0.00,0.00,0.00,1170.00,0.00,0.00,0.00,0.00,1170.00,Iris Stanhope,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01130-Nightingale,Downtown,0.00,0.0,0.00,585.00,1.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Kai Nightingale,Family law,Divorce,Elena Brightwater,0.00,0.00
+01131-Bellwether,Downtown,0.00,0.0,0.00,400.00,0.8,0.00,0.00,0.00,0.00,0.00,0.00,400.00,0.00,0.00,0.00,0.00,400.00,Bellwether Pet Care,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+01132-Wetherby,Downtown,0.00,0.0,0.00,2600.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2600.00,0.00,0.00,0.00,0.00,2600.00,Mina Wetherby,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01134-Dunleavy,Downtown,3230.00,6.8,0.00,1852.50,3.9,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Bryn Dunleavy,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+01135-Copperfield,Downtown,0.00,0.0,0.00,552.50,1.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Copperfield Roasters,Business litigation,Partnership dispute,Aisha Lindqvist,0.00,0.00
+01136-Ingram,Downtown,0.00,0.0,0.00,3500.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3500.00,0.00,0.00,0.00,0.00,3500.00,Joss Ingram,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01138-Merriweather,Downtown,0.00,0.0,0.00,1400.00,2.8,0.00,0.00,0.00,0.00,0.00,0.00,1400.00,0.00,0.00,0.00,0.00,1400.00,Cleo Merriweather,Business litigation,Partnership dispute,Jordan Pemberton,0.00,0.00
+01139-Montrose,Downtown,0.00,0.0,0.00,357.50,1.3,0.00,0.00,0.00,0.00,0.00,0.00,357.50,0.00,0.00,0.00,0.00,357.50,Cleo Montrose,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01141-Rothwell,Downtown,0.00,0.0,0.00,630.00,1.4,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Mina Rothwell,Family law,Divorce,Elena Brightwater,0.00,0.00
+01142-Gilchrist,Downtown,270.00,0.9,0.00,270.00,0.9,0.00,0.00,0.00,0.00,0.00,0.00,270.00,0.00,0.00,0.00,0.00,270.00,Rafa Gilchrist,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01145-Hartnell,Downtown,0.00,0.0,0.00,2275.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2275.00,0.00,0.00,0.00,0.00,2275.00,Odette Hartnell,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01146-Zimmerman,Downtown,1182.50,4.3,0.00,618.75,2.2,0.00,0.00,0.00,0.00,0.00,0.00,618.75,0.00,0.00,0.00,0.00,618.75,Ada Zimmerman,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01148-Merriweather,Downtown,1757.50,3.7,0.00,2232.50,4.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Bea Merriweather,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01150-Yarborough,Downtown,3285.00,7.3,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Cleo Yarborough,Family law,Spousal support,Elena Brightwater,0.00,0.00
+01152-Fitzwilliam,Downtown,0.00,0.0,0.00,5150.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5150.00,0.00,0.00,0.00,0.00,5150.00,Greta Fitzwilliam,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01154-Fairbairn,Downtown,0.00,0.0,0.00,525.00,1.8,0.00,0.00,0.00,0.00,0.00,0.00,525.00,0.00,0.00,0.00,0.00,525.00,Greta Fairbairn,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01155-Brightline,Downtown,2327.50,4.9,0.00,836.00,1.8,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Brightline Dental,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01156-Whitlock,Downtown,1567.50,5.7,0.00,528.00,1.9,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Kira Whitlock,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+01157-Penhallow,Downtown,0.00,0.0,0.00,198.00,0.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Aldo Penhallow,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01159-Aldridge,Downtown,1237.50,4.5,0.00,148.50,0.5,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Orla Aldridge,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01160-Ironbark,Downtown,0.00,0.0,0.00,2831.00,6.0,0.00,0.00,0.00,0.00,0.00,0.00,1263.50,0.00,0.00,0.00,0.00,1263.50,Ironbark Fabrication,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01161-Kingsley,Downtown,0.00,0.0,0.00,2600.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2600.00,0.00,0.00,0.00,0.00,2600.00,Cleo Kingsley,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01162-Nightingale,Downtown,0.00,0.0,0.00,250.00,0.5,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pax Nightingale,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+01164-Delacourt,Downtown,300.00,0.6,0.00,600.00,1.2,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Kira Delacourt,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+01165-Rothwell,Downtown,1050.00,3.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Pax Rothwell,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01166-Delacourt,Downtown,0.00,0.0,0.00,5600.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5600.00,0.00,0.00,0.00,0.00,5600.00,Hugo Delacourt,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01167-Yoshida,Downtown,0.00,0.0,0.00,3850.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3850.00,0.00,0.00,0.00,0.00,3850.00,Iris Yoshida,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01169-Whitlock,Downtown,522.50,1.9,0.00,132.00,0.5,0.00,0.00,0.00,0.00,0.00,0.00,132.00,0.00,0.00,0.00,0.00,132.00,Edie Whitlock,Family law,Spousal support,Wren Kowalczyk,0.00,0.00
+01171-Eastwick,Downtown,1200.00,2.4,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Vera Eastwick,Business litigation,Contract dispute,Jordan Pemberton,0.00,0.00
+01172-Birchfield,Downtown,1125.00,2.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Uri Birchfield,Family law,Divorce,Elena Brightwater,0.00,0.00
+01173-Westfall,Downtown,0.00,0.0,0.00,682.50,2.1,0.00,0.00,0.00,0.00,0.00,0.00,682.50,0.00,0.00,0.00,0.00,682.50,Westfall Tool and Die,Business litigation,Non-compete,Aisha Lindqvist,0.00,0.00
+01174-Xiong,Downtown,855.00,1.9,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Isla Xiong,Family law,Divorce,Elena Brightwater,0.00,0.00
+01175-Birchfield,Downtown,0.00,0.0,0.00,2075.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2075.00,0.00,0.00,0.00,0.00,2075.00,Yusuf Birchfield,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01177-Ivesley,Downtown,0.00,0.0,0.00,5850.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5850.00,0.00,0.00,0.00,0.00,5850.00,Fern Ivesley,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01178-Yarborough,Downtown,0.00,0.0,0.00,494.00,1.0,0.00,0.00,0.00,0.00,0.00,0.00,494.00,0.00,0.00,0.00,0.00,494.00,Hana Yarborough,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01179-Kingsley,Downtown,0.00,0.0,0.00,4900.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,4900.00,0.00,0.00,0.00,0.00,4900.00,Theo Kingsley,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01180-Bellweather,Downtown,0.00,0.0,0.00,2775.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2775.00,0.00,0.00,0.00,0.00,2775.00,Dara Bellweather,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01181-Okonkwo,Downtown,2475.00,5.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Quinn Okonkwo,Family law,Spousal support,Elena Brightwater,0.00,0.00
+01182-Pemberley,Downtown,385.00,1.4,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Wes Pemberley,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01184-Bellwether,Downtown,0.00,0.0,0.00,2050.00,4.1,0.00,0.00,0.00,0.00,0.00,0.00,2050.00,0.00,0.00,0.00,0.00,2050.00,Bellwether Pet Care,Business litigation,Non-compete,Jordan Pemberton,0.00,0.00
+01186-Aldridge,Downtown,0.00,0.0,0.00,3400.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3400.00,0.00,0.00,0.00,0.00,3400.00,Una Aldridge,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01187-Brackenridge,Downtown,825.00,3.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Cyrus Brackenridge,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01188-Tillman,Downtown,1350.00,3.0,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Dev Tillman,Family law,Divorce,Elena Brightwater,0.00,0.00
+01190-Fitzwilliam,Downtown,0.00,0.0,0.00,3225.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3225.00,0.00,0.00,0.00,0.00,3225.00,Ada Fitzwilliam,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01191-Quillfeather,Downtown,0.00,0.0,0.00,5500.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5500.00,0.00,0.00,0.00,0.00,5500.00,Nora Quillfeather,Estate planning,Power of attorney,Hiro Vandermeer,0.00,0.00
+01193-Quillfeather,Downtown,0.00,0.0,0.00,5600.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5600.00,0.00,0.00,0.00,0.00,5600.00,Una Quillfeather,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01195-Cavendish,Downtown,715.00,2.6,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Tess Cavendish,Family law,Divorce,Wren Kowalczyk,0.00,0.00
+01196-Galloway,Downtown,0.00,0.0,0.00,1925.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1925.00,0.00,0.00,0.00,0.00,1925.00,Hana Galloway,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01197-Quillfeather,Downtown,0.00,0.0,0.00,5500.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,5500.00,0.00,0.00,0.00,0.00,5500.00,Dion Quillfeather,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01198-Dunmore,Downtown,0.00,0.0,0.00,4150.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,4150.00,0.00,0.00,0.00,0.00,4150.00,Una Dunmore,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01202-Stanhope,Downtown,0.00,0.0,0.00,6050.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,6050.00,0.00,0.00,0.00,0.00,6050.00,Uri Stanhope,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01205-Ivesley,Downtown,0.00,0.0,0.00,3250.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3250.00,0.00,0.00,0.00,0.00,3250.00,Bryn Ivesley,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01207-Westfall,Downtown,1045.00,3.8,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Westfall Tool and Die,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+01208-Sutcliffe,Downtown,577.50,2.1,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Lars Sutcliffe,Family law,Child custody,Wren Kowalczyk,0.00,0.00
+01209-Ashdown,Downtown,0.00,0.0,0.00,2550.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2550.00,0.00,0.00,0.00,0.00,2550.00,Kai Ashdown,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01210-Jessup,Downtown,0.00,0.0,0.00,4500.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,4500.00,0.00,0.00,0.00,0.00,4500.00,Finn Jessup,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01211-Cavendish,Downtown,2707.50,5.7,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Farah Cavendish,Business litigation,Contract dispute,Imani Rourke,0.00,0.00
+01212-Fairbairn,Downtown,0.00,0.0,0.00,1675.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1675.00,0.00,0.00,0.00,0.00,1675.00,Ada Fairbairn,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01213-Wetherby,Downtown,2250.00,7.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Aldo Wetherby,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01215-Rothwell,Downtown,0.00,0.0,0.00,3175.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,3175.00,0.00,0.00,0.00,0.00,3175.00,Farah Rothwell,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01216-Jessup,Downtown,585.00,1.8,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Yusuf Jessup,Business litigation,Contract dispute,Aisha Lindqvist,0.00,0.00
+01217-Northcott,Downtown,780.00,2.6,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Tess Northcott,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01218-Yoshida,Downtown,495.00,1.8,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Milo Yoshida,Business litigation,Contract dispute,Caleb Moreau,0.00,0.00
+01219-Jessup,Downtown,0.00,0.0,0.00,1450.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1450.00,0.00,0.00,0.00,0.00,1450.00,Yara Jessup,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01220-Thistlewood,Downtown,0.00,0.0,0.00,6400.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,6400.00,0.00,0.00,0.00,0.00,6400.00,Quinn Thistlewood,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01222-Okonkwo,Downtown,137.50,0.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Ines Okonkwo,Business litigation,Partnership dispute,Caleb Moreau,0.00,0.00
+01223-Radcliffe,Downtown,240.00,0.8,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Hal Radcliffe,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01225-Westfall,Downtown,237.50,0.5,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Westfall Tool and Die,Business litigation,Partnership dispute,Imani Rourke,0.00,0.00
+01232-Cavendish,Downtown,0.00,0.0,0.00,2125.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2125.00,0.00,0.00,0.00,0.00,2125.00,Joss Cavendish,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01234-Grayling,Downtown,0.00,0.0,0.00,2275.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2275.00,0.00,0.00,0.00,0.00,2275.00,Bea Grayling,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01236-Vandenberg,Downtown,0.00,0.0,0.00,1250.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1250.00,0.00,0.00,0.00,0.00,1250.00,Edie Vandenberg,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01238-Fairbairn,Downtown,660.00,2.2,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Cyrus Fairbairn,Family law,Child custody,Tomas Ferreira,0.00,0.00
+01239-Kettering,Downtown,690.00,2.3,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Hal Kettering,Family law,Spousal support,Tomas Ferreira,0.00,0.00
+01241-Xiong,Downtown,90.00,0.3,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Una Xiong,Family law,Divorce,Tomas Ferreira,0.00,0.00
+01242-Dunleavy,Downtown,0.00,0.0,0.00,2100.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2100.00,0.00,0.00,0.00,0.00,2100.00,Edie Dunleavy,Estate planning,Power of attorney,Rosalind Achterberg,0.00,0.00
+01246-Stanhope,Downtown,0.00,0.0,0.00,1400.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1400.00,0.00,0.00,0.00,0.00,1400.00,Farah Stanhope,Estate planning,Probate,Hiro Vandermeer,0.00,0.00
+01248-Fitzwilliam,Downtown,180.00,0.4,0.00,0.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Greta Fitzwilliam,Family law,Divorce,Elena Brightwater,0.00,0.00
+01253-Cavendish,Downtown,0.00,0.0,0.00,1800.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1800.00,0.00,0.00,0.00,0.00,1800.00,Pax Cavendish,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01259-Pemberley,Downtown,0.00,0.0,0.00,1400.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1400.00,0.00,0.00,0.00,0.00,1400.00,Xena Pemberley,Estate planning,Will and trust,Rosalind Achterberg,0.00,0.00
+01261-Northcott,Downtown,0.00,0.0,0.00,2200.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,2200.00,0.00,0.00,0.00,0.00,2200.00,Tess Northcott,Estate planning,Will and trust,Hiro Vandermeer,0.00,0.00
+01265-Yoshida,Downtown,0.00,0.0,0.00,1625.00,0.0,0.00,0.00,0.00,0.00,0.00,0.00,1625.00,0.00,0.00,0.00,0.00,1625.00,Jonas Yoshida,Estate planning,Probate,Rosalind Achterberg,0.00,0.00
+01266-Delacroix,Downtown,0.00,0.0,0.00,81207.50,193.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Delacroix Supply,Business litigation,Delacroix Supply v. Harlan Industrial,Jordan Pemberton,0.00,0.00

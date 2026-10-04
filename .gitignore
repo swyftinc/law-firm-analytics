@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+firm-analytics/
+dist/
+*.zip
+docs/example/memo_page-*.png
+tools/denylist.local.txt
+docs/images/_src/
+evals/results/

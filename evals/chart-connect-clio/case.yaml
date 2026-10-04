@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: chart-connect-clio
+tags: [chart, connectors]
+context:
+  scaffold_script: fixture.sh

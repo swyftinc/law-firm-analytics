@@ -1,0 +1,255 @@
+{
+ "as_of": "2026-10-04",
+ "guidance": "Lead with the first item in look_at unless going_well holds something far larger that is high confidence and not lumpy. Supporting topics explain a look_at item and belong inside it. unconfirmed items are single swings with no mechanism behind them: do not lead with them, and mention at most one as 'worth watching'. If look_at and going_well are both empty, it was a quiet week: say so plainly and keep the memo short.",
+ "look_at": [
+  {
+   "key": [
+    "source",
+    "Google LSA"
+   ],
+   "title": "Google LSA: lead conversion and cost",
+   "headline": "signed_rate.google-lsa",
+   "members": [
+    "lead_volume.google-lsa",
+    "lead_source_share.google-lsa",
+    "signed_rate.google-lsa",
+    "cost_per_lead.google-lsa",
+    "cost_per_signed.google-lsa",
+    "after_hours_share.google-lsa"
+   ],
+   "mechanism": [
+    "after_hours_share.google-lsa",
+    "signed_rate_by_response.within-1-hour",
+    "signed_rate_by_response.over-24-hours-or-never"
+   ],
+   "caveats": [
+    "One of 8 source groups checked. Swings this size sometimes happen by chance.",
+    "One of 5 source groups checked. Swings this size sometimes happen by chance."
+   ],
+   "people_level": false,
+   "impact_usd": 159210.1449275362,
+   "direction": "worsened",
+   "confidence": "high",
+   "corroboration": [
+    "Google LSA's mix of after-hours and weekend leads changed sharply (32.9% to 83.3%), and across all leads, those reached within an hour signed at 51.0% versus 5.7% when contact took over a day."
+   ],
+   "supporting": false,
+   "lumpy": false,
+   "rank": 2
+  },
+  {
+   "key": [
+    "receivables",
+    null
+   ],
+   "title": "Receivables and collections",
+   "headline": "ar_over_90.all",
+   "members": [
+    "collection_rate.all",
+    "collection_rate.business-litigation",
+    "collection_rate.family-law",
+    "ar_total.all",
+    "ar_over_90.all",
+    "ar_over_90_share.all",
+    "ar_over_90_concentration.01266-delacroix"
+   ],
+   "mechanism": [
+    "ar_over_90_concentration.01266-delacroix"
+   ],
+   "caveats": [],
+   "people_level": false,
+   "impact_usd": 29130.25,
+   "direction": "worsened",
+   "confidence": "medium",
+   "corroboration": [
+    "One matter holds 78% of everything over 90 days."
+   ],
+   "supporting": false,
+   "lumpy": false,
+   "rank": 3
+  },
+  {
+   "key": [
+    "practice",
+    "Family law"
+   ],
+   "title": "Family law: realization",
+   "headline": "realization.family-law",
+   "members": [
+    "realization.family-law",
+    "realization_contribution.family-law_elena-brightwater",
+    "realization_contribution.family-law_tomas-ferreira",
+    "realization_contribution.family-law_wren-kowalczyk",
+    "realization.elena-brightwater",
+    "realization.tomas-ferreira",
+    "realization.wren-kowalczyk"
+   ],
+   "mechanism": [
+    "realization_contribution.family-law_wren-kowalczyk"
+   ],
+   "caveats": [
+    "People-level finding. Frame it as a question to ask, not a verdict.",
+    "People-level. A reason to ask a question, not a verdict."
+   ],
+   "people_level": true,
+   "impact_usd": 20757.779147982063,
+   "direction": "worsened",
+   "confidence": "high",
+   "corroboration": [
+    "Wren Kowalczyk accounts for about 81% of the change in family law realization (87% to 53%)."
+   ],
+   "supporting": false,
+   "lumpy": false,
+   "rank": 4
+  }
+ ],
+ "going_well": [
+  {
+   "key": [
+    "revenue",
+    null
+   ],
+   "title": "Collected revenue",
+   "headline": "collected_revenue.all",
+   "members": [
+    "collected_revenue.all",
+    "collected_revenue.business-litigation",
+    "collected_revenue.estate-planning",
+    "collected_revenue.family-law",
+    "collected_revenue.personal-injury"
+   ],
+   "mechanism": [],
+   "caveats": [],
+   "people_level": false,
+   "impact_usd": 347089.8099999998,
+   "direction": "improved",
+   "confidence": "medium",
+   "corroboration": [],
+   "supporting": false,
+   "lumpy": false,
+   "rank": 1
+  }
+ ],
+ "supporting": [
+  {
+   "key": [
+    "intake",
+    null
+   ],
+   "title": "Speed to lead",
+   "headline": "speed_to_lead.all",
+   "members": [
+    "speed_to_lead.all",
+    "speed_to_lead.weekday,-business-hours",
+    "speed_to_lead.weekday,-after-hours",
+    "speed_to_lead.weekend",
+    "contacted_within_hour.all",
+    "uncontacted_share.all",
+    "after_hours_share.all",
+    "signed_rate_by_response.within-1-hour",
+    "signed_rate_by_response.1-to-4-hours",
+    "signed_rate_by_response.4-to-24-hours",
+    "signed_rate_by_response.over-24-hours-or-never"
+   ],
+   "mechanism": [],
+   "caveats": [],
+   "people_level": false,
+   "impact_usd": null,
+   "direction": "worsened",
+   "confidence": "high",
+   "corroboration": [],
+   "supporting": true,
+   "lumpy": false,
+   "rank": 5
+  }
+ ],
+ "unconfirmed": [
+  {
+   "key": [
+    "source",
+    "Google Ads"
+   ],
+   "title": "Google Ads: lead conversion and cost",
+   "headline": "cost_per_lead.google-ads",
+   "members": [
+    "lead_volume.google-ads",
+    "lead_source_share.google-ads",
+    "signed_rate.google-ads",
+    "cost_per_lead.google-ads",
+    "cost_per_signed.google-ads",
+    "after_hours_share.google-ads"
+   ],
+   "mechanism": [],
+   "caveats": [
+    "One of 5 source groups checked. Swings this size sometimes happen by chance."
+   ],
+   "people_level": false,
+   "impact_usd": null,
+   "direction": "improved",
+   "confidence": "low",
+   "corroboration": [],
+   "supporting": false,
+   "lumpy": false,
+   "rank": 6
+  }
+ ],
+ "too_thin_to_call": [
+  {
+   "id": "signed_rate.wealth-advisor-referral",
+   "display": "100.0%",
+   "n": 4,
+   "label": "Signed rate",
+   "scope": "Wealth advisor referral",
+   "vs_firm_wide": "27.0%",
+   "tempting": 2.71
+  },
+  {
+   "id": "cost_per_signed.avvo",
+   "display": "$575",
+   "n": 2,
+   "label": "Cost per signed matter",
+   "scope": "Avvo",
+   "vs_firm_wide": null,
+   "tempting": 0
+  },
+  {
+   "id": "cost_per_signed.facebook",
+   "display": "$2,870",
+   "n": 1,
+   "label": "Cost per signed matter",
+   "scope": "Facebook",
+   "vs_firm_wide": null,
+   "tempting": 0
+  },
+  {
+   "id": "cost_per_signed.google-ads",
+   "display": "$595",
+   "n": 11,
+   "label": "Cost per signed matter",
+   "scope": "Google Ads",
+   "vs_firm_wide": null,
+   "tempting": 0
+  }
+ ],
+ "moved_within_normal_variation": [
+  {
+   "id": "lead_volume.all",
+   "label": "New leads",
+   "display": "181",
+   "prior": "170",
+   "delta": "+6%",
+   "p": 0.5571
+  },
+  {
+   "id": "signed_rate.all",
+   "label": "Signed rate",
+   "display": "27.0%",
+   "prior": "33.1%",
+   "delta": "-19%",
+   "p": 0.2077
+  }
+ ],
+ "unavailable": [],
+ "skipped": [],
+ "warnings": []
+}

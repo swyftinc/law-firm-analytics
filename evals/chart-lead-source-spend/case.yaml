@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: chart-lead-source-spend
+tags: [chart, smoke]
+context:
+  scaffold_script: fixture.sh
